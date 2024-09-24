@@ -1,5 +1,3 @@
-Here's a README file for your Twitter scraping code. This document provides an overview, instructions for setup, usage, and any dependencies required to run the code effectively.
-
 ---
 
 # Twitter Scraping Script
@@ -27,7 +25,7 @@ Before running the script, ensure you have the following Python packages install
 You can install the required packages using pip:
 
 ```bash
-pip install aiohttp pandas twikit
+pip install -r requirements.txt
 ```
 
 ## Setup
