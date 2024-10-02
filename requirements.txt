@@ -1,3 +1,5 @@
 twikit
 pandas
 aiohttp
+selenium
+openpyxl
