@@ -27,7 +27,7 @@ service = Service(executable_path=chrome_driver_path)
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # Path to the cookies file
-cookies_file_path = "cookies.json"
+cookies_file_path = "cookies1.json"
 
 # Function to load cookies
 def load_cookies(driver, cookies_file_path):
@@ -138,6 +138,10 @@ for i, url in enumerate(urls):
         # Save the CSV with a unique name (based on the username) in the "comments" folder
         csv_filename = os.path.join("comments", f"{username}--{random_number}_comments.csv")
         df.to_csv(csv_filename, index=False)
+
+        tweets_df = pd.read_csv("tweets.csv")
+        tweets_df.loc[tweets_df['URL to tweet'] == url, 'comment_file'] = csv_filename
+        tweets_df.to_csv("tweets.csv", index=False)
 
         print(f"Saved {len(comments)} comments to {csv_filename}")
     except Exception as e:
