@@ -104,7 +104,8 @@ async def main():
             'poster_frequency': posting_frequency,
             'total_posts': user.statuses_count,
             'hashtags': ', '.join(hashtags),
-            'image_filename': filename
+            'image_filename': filename,
+            'comment_file': None
         })
 
     # Make the data into a pandas dataframe and store it as a CSV file
