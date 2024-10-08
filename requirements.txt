@@ -3,3 +3,5 @@ pandas
 aiohttp
 selenium
 openpyxl
+facebook-scraper
+lxml_html_clean

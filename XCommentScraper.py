@@ -16,7 +16,7 @@ chrome_driver_path = r"C:\Users\Jonah\Research\WebDriver\chromedriver-win64\chro
 
 # Setup headless Chrome options
 chrome_options = Options()
-# chrome_options.add_argument("--headless")  # Uncomment if you want headless mode
+chrome_options.add_argument("--headless")  # Uncomment if you want headless mode
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 
