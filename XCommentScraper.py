@@ -12,7 +12,7 @@ from urllib.parse import urlparse
 from random import randint
 
 # Path to your ChromeDriver
-chrome_driver_path = r"C:\Users\Jonah\Research\WebDriver\chromedriver-win64\chromedriver.exe"
+chrome_driver_path = r"C:\Users\Jonah Dalton\Data_Pipeline\Twitter_Scrape\WebDriver\chromedriver-win64\chromedriver.exe"
 
 # Setup headless Chrome options
 chrome_options = Options()
@@ -27,7 +27,7 @@ service = Service(executable_path=chrome_driver_path)
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # Path to the cookies file
-cookies_file_path = "cookies1.json"
+cookies_file_path = "Twitter_Scrape/cookies1.json"
 
 # Function to load cookies
 def load_cookies(driver, cookies_file_path):
@@ -44,8 +44,8 @@ def save_cookies(driver, cookies_file_path):
         json.dump(cookies, file)
 
 # Ensure "comments" folder exists
-if not os.path.exists("comments"):
-    os.makedirs("comments")
+if not os.path.exists("Twitter_Scrape/comments"):
+    os.makedirs("Twitter_Scrape/comments")
 
 # Load cookies before navigating to the login page
 driver.get("https://x.com")  # Navigate to the main page to set the domain for cookies
@@ -97,18 +97,18 @@ except Exception as e:
     print(f"An error occurred during login: {e}")
 
 # After logging in and navigating to the post
-with open("tweets.txt", "r") as file:
+with open("Twitter_Scrape/successful_links.txt", "r") as file:
     urls = [line.strip() for line in file]
 time.sleep(3)  # Wait for the post to load
 
 for i, url in enumerate(urls):
-    url = url.strip()  # Remove any trailing spaces or newlines
-
-    # Navigate to each post
-    driver.get(url)
-    time.sleep(5)  # Wait for the post to load
-
     try:
+        url = url.strip()  # Remove any trailing spaces or newlines
+
+        # Navigate to each post
+        driver.get(url)
+        time.sleep(5)  # Wait for the post to load
+    
         WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, ".//div[@data-testid='tweetText']")))
     
     # Locate all comment divs by their data-testid attribute
@@ -136,16 +136,24 @@ for i, url in enumerate(urls):
         random_number = randint(1, 1000)
 
         # Save the CSV with a unique name (based on the username) in the "comments" folder
-        csv_filename = os.path.join("comments", f"{username}--{random_number}_comments.csv")
+        csv_filename = os.path.join("Twitter_Scrape/comments", f"{username}--{random_number}_comments.csv")
         df.to_csv(csv_filename, index=False)
 
-        tweets_df = pd.read_csv("tweets.csv")
+        tweets_df = pd.read_csv("Twitter_Scrape/tweets.csv")
         tweets_df.loc[tweets_df['URL to tweet'] == url, 'comment_file'] = csv_filename
-        tweets_df.to_csv("tweets.csv", index=False)
+        tweets_df.to_csv("Twitter_Scrape/tweets.csv", index=False)
 
         print(f"Saved {len(comments)} comments to {csv_filename}")
     except Exception as e:
         print(f"An error occurred for {url}: {e}")
+        
+    # If comments were successfully saved, remove the URL from the text file
+    with open("Twitter_Scrape/successful_links.txt", "r") as file:
+        lines = file.readlines()
+    with open("Twitter_Scrape/successful_links.txt", "w") as file:
+        for line in lines:
+            if line.strip() != url:
+                file.write(line)
 
 # Quit the driver
 driver.quit()
