@@ -16,14 +16,18 @@ async def main():
         # Load cookies if the file exists
         client.load_cookies(path='Twitter_Scrape/cookies.json')
     else:
-        # Login and save cookies if the file does not exist
         print('Logging in...')
-        await client.login(
-            auth_info_1='JohnMitche12483',
-            password='EnsureSafe87!!',
-        )
-        client.save_cookies('Twitter_Scrape/cookies.json')
-
+        try:
+            await client.login(
+                auth_info_1='JohnMitche12483',
+                password='EnsureSafe87!!',
+            )
+            client.save_cookies('Twitter_Scrape/cookies.json')
+        except BadRequest as e:
+            print(f"Login failed: {e}")
+            return
+    print('Cookies loaded or login successful.')
+        
     text_file = "tweets.txt"
     # Open the text file
     with open(f'Twitter_Scrape/{text_file}', 'r') as file:
@@ -45,7 +49,9 @@ async def main():
             parsed_url = urlparse(link)
             path_parts = parsed_url.path.strip('/').split('/')
             user_handle = path_parts[0]
-            tweet_id = path_parts[-1]
+            tweet_id = path_parts[2]  # The tweet ID is the third part in the path
+
+            print(f"Processing tweet ID: {tweet_id} from user: {user_handle}")
 
             # Fetch the user details
             user = await client.get_user_by_screen_name(user_handle)
@@ -138,7 +144,6 @@ async def main():
         df.to_csv(csv_file, mode='a', header=False, index=False)
     else:
         df.to_csv(csv_file, mode='w', header=True, index=False)
-    print(df.sort_values(by='likes', ascending=False))
 
 # Run main 
 asyncio.run(main())
