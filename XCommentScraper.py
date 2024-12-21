@@ -4,6 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 import time
 from selenium.webdriver.support.ui import WebDriverWait
@@ -11,8 +12,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from urllib.parse import urlparse
 from random import randint
 
-# Path to your ChromeDriver
-chrome_driver_path = r"C:\Users\Jonah Dalton\Data_Pipeline\Twitter_Scrape\WebDriver\chromedriver-win64\chromedriver.exe"
 
 # Setup headless Chrome options
 chrome_options = Options()
@@ -21,7 +20,7 @@ chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 
 # Initialize the Service object with the ChromeDriver path
-service = Service(executable_path=chrome_driver_path)
+service = Service(ChromeDriverManager().install())
 
 # Initialize the driver with the specified Service and options
 driver = webdriver.Chrome(service=service, options=chrome_options)
