@@ -19,8 +19,8 @@ async def main():
         print('Logging in...')
         try:
             await client.login(
-                auth_info_1='SViewer8999292',
-                password='TheNew23!',
+                auth_info_1='USERNAME',
+                password='PASSWORD',
             )
             client.save_cookies('Twitter_Scrape/cookies.json')
         except BadRequest as e:
