@@ -69,7 +69,7 @@ try:
         username_field = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.NAME, "text"))
         )
-        username_field.send_keys("JohnMitche12483")  # Enter your username
+        username_field.send_keys("SViewer8999292")  # Enter your username
 
         next_button = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.XPATH, "//span[text()='Next']/.."))
@@ -80,7 +80,7 @@ try:
         password_field = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.NAME, "password"))
         )
-        password_field.send_keys("EnsureSafe87!!")  # Enter your password
+        password_field.send_keys("TheNew23!")  # Enter your password
 
         login = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.XPATH, "//span[text()='Log in']/.."))
