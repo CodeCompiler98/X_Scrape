@@ -1,2 +1,2 @@
-comment_text
-First free speech.
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+First free speech.,,,,0.623,0.377,0.0,0.5106,[],[],[],[],[]

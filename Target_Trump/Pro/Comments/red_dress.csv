@@ -1,8 +1,8 @@
-comment_text
-TrumpTrain Hot  MAGA  GARBAGE 
-I’m garbage baby 
-"I think Trump has a cabinet position for you Can I be on your staff, gorgeous?"
-"Wouldn’t that be amazing  and of course baby, you’re my #1!"
-Great picture
-"3 days left! Everything is at stake! Get out and FIGHT, FIGHT, FIGHT and VOTE, VOTE, VOTE!!  #Trump2024  #TrumpToSaveAmerica "
-Do not look down Donald. Do not do it
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+TrumpTrain Hot  MAGA  GARBAGE ,,,,0.0,1.0,0.0,0.0,[],['GARBAGE'],[],[],[]
+I’m garbage baby ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+"I think Trump has a cabinet position for you Can I be on your staff, gorgeous?",,,,0.25,0.75,0.0,0.6124,['Trump'],[],[],[],[]
+"Wouldn’t that be amazing  and of course baby, you’re my #1!",,#1,,0.29,0.71,0.0,0.6239,[],[],[],[],[]
+Great picture,,,,0.804,0.196,0.0,0.6249,[],[],[],[],[]
+"3 days left! Everything is at stake! Get out and FIGHT, FIGHT, FIGHT and VOTE, VOTE, VOTE!!  #Trump2024  #TrumpToSaveAmerica ",,#Trump2024 #TrumpToSaveAmerica,,0.0,0.573,0.427,-0.9035,[],"['FIGHT', 'VOTE', 'VOTE', 'VOTE']",[],[],['3 days']
+Do not look down Donald. Do not do it,,,,0.0,1.0,0.0,0.0,['Donald'],[],[],[],[]

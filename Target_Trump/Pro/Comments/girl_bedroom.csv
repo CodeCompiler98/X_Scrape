@@ -1,10 +1,10 @@
-comment_text
-Good morning!
-Morning
-Good Morning
-Morning
-You're beautiful 
-AI
-Mornin Stephi
-Beautiful 
-Happy Sunday Funday Stephi. On November 5th America Wins!
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Good morning!,,,,0.761,0.239,0.0,0.4926,[],[],[],[],[]
+Morning,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Good Morning,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[]
+Morning,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+You're beautiful ,,,,0.796,0.204,0.0,0.5994,[],[],[],[],[]
+AI,,,,0.0,1.0,0.0,0.0,[],[],['AI'],[],[]
+Mornin Stephi,,,,0.0,1.0,0.0,0.0,['Mornin Stephi'],[],[],[],[]
+Beautiful ,,,,1.0,0.0,0.0,0.5994,[],[],[],[],[]
+Happy Sunday Funday Stephi. On November 5th America Wins!,,,,0.524,0.476,0.0,0.8268,[],[],[],[],"['Sunday', 'November 5th America Wins']"

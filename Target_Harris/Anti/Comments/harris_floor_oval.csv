@@ -1,4 +1,4 @@
-comment_text
-"Trump's first day back in office in the White House, 20 January 2025."
-With #KamalaCleaner cleaning the floor.
-Free my mind! Followed
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+"Trump's first day back in office in the White House, 20 January 2025.",,,,0.0,1.0,0.0,0.0,[],"['Trump', 'the White House']",[],[],"['first day', '20 January 2025']"
+With #KamalaCleaner cleaning the floor.,,#KamalaCleaner,,0.0,1.0,0.0,0.0,['KamalaCleaner'],[],[],[],[]
+Free my mind! Followed,,,,0.545,0.455,0.0,0.5562,[],[],[],[],[]

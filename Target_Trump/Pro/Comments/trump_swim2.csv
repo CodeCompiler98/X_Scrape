@@ -1,6 +1,6 @@
-comment_text
-Good morning Susan
-Good Morning Susan!  Have a great day!
-Good morning
-"HEYYYYY, SUSAN"
-"Good morning, Susan!"
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Good morning Susan,,,,0.592,0.408,0.0,0.4404,['Susan'],[],[],[],[]
+Good Morning Susan!  Have a great day!,,,,0.655,0.345,0.0,0.8217,[],[],[],[],[]
+Good morning,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[]
+"HEYYYYY, SUSAN",,,,0.0,1.0,0.0,0.0,[],['HEYYYYY'],[],[],[]
+"Good morning, Susan!",,,,0.615,0.385,0.0,0.4926,['Susan'],[],[],[],[]

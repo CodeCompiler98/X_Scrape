@@ -1,5 +1,5 @@
-comment_text
-Yum yum yum
-#KeepAmericaGreat #MAGA #Trump #TrumpBabes #TrumpGirlOnFire #Winning
-Sweet Mother of Jesus…… Imagine the fun with those three beauties…..Phhhhewwwww…..
-#hotmaga
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Yum yum yum,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+#KeepAmericaGreat #MAGA #Trump #TrumpBabes #TrumpGirlOnFire #Winning,,#KeepAmericaGreat #MAGA #Trump #TrumpBabes #TrumpGirlOnFire #Winning,,0.0,1.0,0.0,0.0,"['MAGA', 'Trump']",[],[],[],[]
+Sweet Mother of Jesus…… Imagine the fun with those three beauties…..Phhhhewwwww…..,,,,0.412,0.588,0.0,0.743,"['Sweet Mother', 'Phhhhewwwww']",[],[],[],[]
+#hotmaga,,#hotmaga,,0.0,1.0,0.0,0.0,['hotmaga'],[],[],[],[]

@@ -1,10 +1,10 @@
-comment_text
-Yes !!
-Did ya!?
-"I don't even notice the cleavage, all I see is the Maga hat!"
-Sure 
-Yup
-Ayo! 
-Beautiful 
-"Don’t forget the mission, babe!"
-Absolutely 
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Yes !!,,,,0.767,0.233,0.0,0.508,[],[],[],[],[]
+Did ya!?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+"I don't even notice the cleavage, all I see is the Maga hat!",,,,0.0,1.0,0.0,0.0,['Maga'],[],[],[],[]
+Sure ,,,,1.0,0.0,0.0,0.3182,[],[],[],[],[]
+Yup,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Ayo! ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Beautiful ,,,,1.0,0.0,0.0,0.5994,[],[],[],[],[]
+"Don’t forget the mission, babe!",,,,0.0,0.646,0.354,-0.2942,[],[],[],[],[]
+Absolutely ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]

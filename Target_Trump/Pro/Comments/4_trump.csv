@@ -1,8 +1,8 @@
-comment_text
-I’m curious who does your photography ? Very professional looking. 
-My sister Sam
-Where do you find all these cool Ttump shirts?
-You can have them custom printed
-Luv it bae! I'm voting today!!!
-"ily, Stephi :)"
-So beautiful
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+I’m curious who does your photography ? Very professional looking. ,,,,0.223,0.777,0.0,0.3182,[],[],[],[],[]
+My sister Sam,,,,0.0,1.0,0.0,0.0,['Sam'],[],[],[],[]
+Where do you find all these cool Ttump shirts?,,,,0.223,0.777,0.0,0.3182,[],[],[],[],[]
+You can have them custom printed,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Luv it bae! I'm voting today!!!,,,,0.0,1.0,0.0,0.0,[],[],[],[],['today']
+"ily, Stephi :)",,,,0.881,0.119,0.0,0.8126,['Stephi'],[],[],[],[]
+So beautiful,,,,0.807,0.193,0.0,0.6361,[],[],[],[],[]

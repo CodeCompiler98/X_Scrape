@@ -1,10 +1,10 @@
-comment_text
-"Keep those MAGA posts coming, Janai.  Good times.  Never in my long life have I seen such enthusiasm for a movement.  Unprecedented unity"
-You’ve got it! 
-I sure will. Cute photo.
-Thanks 
-This changed my vote
-Ayooo 
-didn’t believe in perfection until I saw you.
-Thanks babe 
-NICE OUTFIT!
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+"Keep those MAGA posts coming, Janai.  Good times.  Never in my long life have I seen such enthusiasm for a movement.  Unprecedented unity",,,,0.234,0.766,0.0,0.7003,['Janai'],['MAGA'],[],[],[]
+You’ve got it! ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+I sure will. Cute photo.,,,,0.726,0.274,0.0,0.6486,[],[],[],[],[]
+Thanks ,,,,1.0,0.0,0.0,0.4404,[],[],[],[],[]
+This changed my vote,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Ayooo ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+didn’t believe in perfection until I saw you.,,,,0.381,0.619,0.0,0.5719,[],[],[],[],[]
+Thanks babe ,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[]
+NICE OUTFIT!,,,,0.756,0.244,0.0,0.4753,[],[],[],[],[]

@@ -1,9 +1,9 @@
-comment_text
-Are u serious?
-yeah
-Don't oversleep 
-Yo Trump fit as hell
-Careful. I believe  @rudyhavenstein  got banned for these types of jokes
-"His hair doesn’t move when he runs, impressive…"
-The progress of AI is worrisome.
-"COMMON MAN. dont do this.  not everybody reads your BIO & understands that you do satire!  twitter users have 100s of accounts they follow they JUST see your NAME & PIC!  its not less funny if you give people a LITTLE HINT: its a joke you can just add at the end a little "";-)"""
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Are u serious?,,,,0.0,0.435,0.565,-0.0772,[],[],[],[],[]
+yeah,,,,1.0,0.0,0.0,0.296,[],[],[],[],[]
+Don't oversleep ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Yo Trump fit as hell,,,,0.248,0.297,0.455,-0.4767,['Yo Trump'],[],[],[],[]
+Careful. I believe  @rudyhavenstein  got banned for these types of jokes,@rudyhavenstein,,,0.265,0.515,0.221,-0.1027,['@rudyhavenstein'],[],[],[],[]
+"His hair doesn’t move when he runs, impressive…",,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+The progress of AI is worrisome.,,,,0.295,0.421,0.284,0.0258,[],[],['AI'],[],[]
+"COMMON MAN. dont do this.  not everybody reads your BIO & understands that you do satire!  twitter users have 100s of accounts they follow they JUST see your NAME & PIC!  its not less funny if you give people a LITTLE HINT: its a joke you can just add at the end a little "";-)""",,,,0.06,0.899,0.041,0.2478,['100s'],"['BIO &', 'NAME & PIC']",[],[],[]

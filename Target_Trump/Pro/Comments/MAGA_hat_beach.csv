@@ -1,9 +1,9 @@
-comment_text
-Them liberal tears are SALTY!! 
-That they are 
-Beautiful and sexy 
-Good morning 
-GM!
-beautiful 
-Thanks babe 
-Hot babe alert  she's MAGA
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Them liberal tears are SALTY!! ,,,,0.0,0.617,0.383,-0.3578,[],[],[],[],[]
+That they are ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Beautiful and sexy ,,,,0.88,0.12,0.0,0.8074,[],[],[],[],[]
+Good morning ,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[]
+GM!,,,,0.0,1.0,0.0,0.0,[],['GM'],[],[],[]
+beautiful ,,,,1.0,0.0,0.0,0.5994,[],[],[],[],[]
+Thanks babe ,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[]
+Hot babe alert  she's MAGA,,,,0.355,0.645,0.0,0.296,[],['MAGA'],[],[],[]

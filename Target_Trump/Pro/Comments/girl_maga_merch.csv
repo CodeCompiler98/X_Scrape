@@ -1,6 +1,6 @@
-comment_text
-"TO VOTERS IN CAMBRIA COUNTY, PA:  We understand that there are some line delays on the ground. We need you to stay in line. We need you to fill out your ballot in full and deliver it. Our Pennsylvania lawyers are all over this issue and will ensure fairness and accuracy in the"
-HOLD THE LINE!
-Can I just hold that Ai photo instead?
-You should see her sister.. LOL!
-Don Jr. did all the lines. Sorry.
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+"TO VOTERS IN CAMBRIA COUNTY, PA:  We understand that there are some line delays on the ground. We need you to stay in line. We need you to fill out your ballot in full and deliver it. Our Pennsylvania lawyers are all over this issue and will ensure fairness and accuracy in the",,,,0.048,0.952,0.0,0.3818,[],[],"['CAMBRIA COUNTY', 'Pennsylvania']",[],[]
+HOLD THE LINE!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Can I just hold that Ai photo instead?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+You should see her sister.. LOL!,,,,0.433,0.567,0.0,0.5893,[],['LOL'],[],[],[]
+Don Jr. did all the lines. Sorry.,,,,0.0,0.822,0.178,-0.0772,['Don Jr.'],[],[],[],[]

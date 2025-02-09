@@ -1,7 +1,7 @@
-comment_text
-Good morning Janai 
-Morrning 
-Beautiful and sexy 
-Thanks 
-Thanks for my morning inspiration.
-Morning inspiration would have been way easier elsewhere 
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Good morning Janai ,,,,0.592,0.408,0.0,0.4404,['Janai'],[],[],[],[]
+Morrning ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Beautiful and sexy ,,,,0.88,0.12,0.0,0.8074,[],[],[],[],[]
+Thanks ,,,,1.0,0.0,0.0,0.4404,[],[],[],[],[]
+Thanks for my morning inspiration.,,,,0.677,0.323,0.0,0.743,[],[],[],[],[]
+Morning inspiration would have been way easier elsewhere ,,,,0.508,0.492,0.0,0.7351,[],[],[],[],[]

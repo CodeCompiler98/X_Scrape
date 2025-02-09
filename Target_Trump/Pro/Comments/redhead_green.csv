@@ -1,9 +1,9 @@
-comment_text
-Hey how you doing!
-Fine! You?
-Beautiful x
-Sexy 
-Very attractive
-Looking very sexy and hot dear
-Stunning MAGA beauty! 
-you shine...  #MAGA24
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Hey how you doing!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Fine! You?,,,,0.677,0.323,0.0,0.2714,[],[],[],[],[]
+Beautiful x,,,,1.0,0.0,0.0,0.5994,[],[],[],[],[]
+Sexy ,,,,1.0,0.0,0.0,0.5267,[],[],[],[],[]
+Very attractive,,,,0.762,0.238,0.0,0.4927,[],[],[],[],[]
+Looking very sexy and hot dear,,,,0.611,0.389,0.0,0.7425,[],[],[],[],[]
+Stunning MAGA beauty! ,,,,0.87,0.13,0.0,0.7712,[],['MAGA'],[],[],[]
+you shine...  #MAGA24,,#MAGA24,,0.0,1.0,0.0,0.0,[],[],[],[],[]

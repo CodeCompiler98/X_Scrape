@@ -1,2 +1,2 @@
-comment_text
-Surprised? 
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Surprised? ,,,,1.0,0.0,0.0,0.2263,['Surprised'],[],[],[],[]

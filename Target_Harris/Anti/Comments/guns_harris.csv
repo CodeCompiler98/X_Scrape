@@ -1,2 +1,2 @@
-comment_text
-very nice how much
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+very nice how much,,,,0.508,0.492,0.0,0.4754,[],[],[],[],[]

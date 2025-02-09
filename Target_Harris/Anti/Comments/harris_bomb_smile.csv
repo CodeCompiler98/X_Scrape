@@ -1,2 +1,2 @@
-comment_text
-"#TamponTim will encourage it, #CommieKamala will cackle."
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+"#TamponTim will encourage it, #CommieKamala will cackle.",,#TamponTim #CommieKamala,,0.355,0.645,0.0,0.5106,['CommieKamala'],['TamponTim'],[],[],[]

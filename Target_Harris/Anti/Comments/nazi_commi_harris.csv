@@ -1,9 +1,9 @@
-comment_text
-I’m so sorry child.  Responsible ( evils  )
-Trump supports this. 1000%. Trump will increase larger amounts of bombs. Will end all assistance to Palestinians. Trump and all Republican Party members support the eradication of all Palestinians. This is what you support. You also support Russia's war against Ukraine.
-Maybe hamas should release hostages and stop firing rockets in to israel .
-Maybe Zionist should return all the land they invaded and occupy? 
-Still spreading that false information  you really should look at history rather than believing that shit
-You're just a damn Russian. A true Nazi.
-I'm clearly not russian  just more educated than you
-Ok. You're a Chinese propagandist.
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+I’m so sorry child.  Responsible ( evils  ),,,,0.236,0.276,0.488,-0.4077,[],[],[],[],[]
+Trump supports this. 1000%. Trump will increase larger amounts of bombs. Will end all assistance to Palestinians. Trump and all Republican Party members support the eradication of all Palestinians. This is what you support. You also support Russia's war against Ukraine.,,,,0.292,0.636,0.073,0.8658,"['Trump', 'Trump']","['Trump', 'Republican Party']","['Russia', 'Ukraine']","['Palestinians', 'Palestinians']",[]
+Maybe hamas should release hostages and stop firing rockets in to israel .,,,,0.0,0.685,0.315,-0.5574,[],[],['israel'],[],[]
+Maybe Zionist should return all the land they invaded and occupy? ,,,,0.0,1.0,0.0,0.0,[],[],[],['Zionist'],[]
+Still spreading that false information  you really should look at history rather than believing that shit,,,,0.0,0.806,0.194,-0.5574,[],[],[],[],[]
+You're just a damn Russian. A true Nazi.,,,,0.295,0.421,0.284,0.0258,[],[],[],"['Russian', 'Nazi']",[]
+I'm clearly not russian  just more educated than you,,,,0.252,0.748,0.0,0.4019,[],[],[],['russian'],[]
+Ok. You're a Chinese propagandist.,,,,0.423,0.577,0.0,0.296,[],[],[],['Chinese'],[]

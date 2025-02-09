@@ -1,2 +1,2 @@
-comment_text
-You 2 look great!
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+You 2 look great!,,,,0.687,0.313,0.0,0.6588,[],[],[],[],[]

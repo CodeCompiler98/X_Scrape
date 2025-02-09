@@ -1,2 +1,2 @@
-comment_text
-#KamalaNuclear
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+#KamalaNuclear,,#KamalaNuclear,,0.0,1.0,0.0,0.0,['KamalaNuclear'],[],[],[],[]

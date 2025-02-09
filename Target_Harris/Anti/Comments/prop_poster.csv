@@ -1,3 +1,3 @@
-comment_text
-I did! If you haven’t. Vote with a friend. Vote with a group of friends. Pass the word.  VOTE!  #VoteBlueChooseJoy
-No thanks.
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+I did! If you haven’t. Vote with a friend. Vote with a group of friends. Pass the word.  VOTE!  #VoteBlueChooseJoy,,#VoteBlueChooseJoy,,0.315,0.685,0.0,0.7835,[],['VOTE'],[],[],[]
+No thanks.,,,,0.569,0.0,0.431,0.1779,[],[],[],[],[]

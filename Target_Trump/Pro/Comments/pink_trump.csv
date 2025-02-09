@@ -1,3 +1,3 @@
-comment_text
-We voted a straight Republican ticket  in Pennsylvania today!
-There we go! Absolutely excellent 
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+We voted a straight Republican ticket  in Pennsylvania today!,,,,0.238,0.762,0.0,0.2942,[],[],['Pennsylvania'],['Republican'],['today']
+There we go! Absolutely excellent ,,,,0.517,0.483,0.0,0.6468,[],[],[],[],[]

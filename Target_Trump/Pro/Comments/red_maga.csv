@@ -1,5 +1,5 @@
-comment_text
-Hmmm seems a bit ambiguous to me 
-"ok, I will be more clear in the next one :p"
-Perfectly clear. Thank you!
-Awesome and pretty
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Hmmm seems a bit ambiguous to me ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+"ok, I will be more clear in the next one :p",,,,0.517,0.483,0.0,0.7574,[],[],[],[],[]
+Perfectly clear. Thank you!,,,,0.906,0.094,0.0,0.8622,[],[],[],[],[]
+Awesome and pretty,,,,0.88,0.12,0.0,0.8074,[],[],[],[],[]

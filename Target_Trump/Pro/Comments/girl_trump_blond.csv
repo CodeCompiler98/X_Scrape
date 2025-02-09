@@ -1,10 +1,10 @@
-comment_text
-You bet your cute little butt I am
-"OK, OK,OK!  I’ll vote for Trump! You are very persuasive!"
-I’ve done my job 
-Agree 100% 
-We got this 
-He’s got my vote!
-Yes!!!
-I'm on your six babe!  Let's get Trump elected!
-That’s my girl! Lfg!
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+You bet your cute little butt I am,,,,0.333,0.667,0.0,0.4588,[],[],[],[],[]
+"OK, OK,OK!  I’ll vote for Trump! You are very persuasive!",,,,0.297,0.703,0.0,0.5871,[],['Trump'],[],[],[]
+I’ve done my job ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Agree 100% ,,,,0.714,0.286,0.0,0.3612,[],[],[],[],[]
+We got this ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+He’s got my vote!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Yes!!!,,,,1.0,0.0,0.0,0.5538,[],[],[],[],[]
+I'm on your six babe!  Let's get Trump elected!,,,,0.0,1.0,0.0,0.0,[],['Trump'],[],[],[]
+That’s my girl! Lfg!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]

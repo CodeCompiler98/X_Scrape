@@ -1,8 +1,8 @@
-comment_text
-My future wife ..MAGA....and MRGA ( make roger great again)..lol
-Who’s Roger tho? 
-OMG! You are amazingly beautiful!
-Thanks babe 
-Yes I have!  Victory is in the air!
-Beautiful babe! 
-Thanks babe 
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+My future wife ..MAGA....and MRGA ( make roger great again)..lol,,,,0.339,0.661,0.0,0.6249,['MAGA'],['MRGA'],[],[],[]
+Who’s Roger tho? ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+OMG! You are amazingly beautiful!,,,,0.544,0.456,0.0,0.6982,[],['OMG'],[],[],[]
+Thanks babe ,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[]
+Yes I have!  Victory is in the air!,,,,0.354,0.646,0.0,0.508,[],[],[],[],[]
+Beautiful babe! ,,,,0.807,0.193,0.0,0.636,[],[],[],[],[]
+Thanks babe ,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[]

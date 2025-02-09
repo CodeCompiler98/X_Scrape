@@ -1,2 +1,2 @@
-comment_text
-This is more reason to lock them all up
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+This is more reason to lock them all up,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]

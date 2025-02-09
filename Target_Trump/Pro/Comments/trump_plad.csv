@@ -1,10 +1,10 @@
-comment_text
-I hope you wore that to the polls lol MAGA
-I got some staring 
-So what kind of stuff will you be posting after Trump wins?
-certainly will keep being maga proud! But can throw in some other fun stuff too 
-Kind of busting out HarleyBelle...
-The damn button wouldn’t stay 
-"Trump won Harley hell yes, get ready for the liberal tears"
-It’s so good! So happy! 
-You’re a honey
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+I hope you wore that to the polls lol MAGA,,,,0.449,0.551,0.0,0.6908,[],['MAGA'],[],[],[]
+I got some staring ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+So what kind of stuff will you be posting after Trump wins?,,,,0.252,0.748,0.0,0.5719,['Trump'],[],[],[],[]
+certainly will keep being maga proud! But can throw in some other fun stuff too ,,,,0.414,0.586,0.0,0.8172,[],[],[],[],[]
+Kind of busting out HarleyBelle...,,,,0.0,1.0,0.0,0.0,[],['HarleyBelle'],[],[],[]
+The damn button wouldn’t stay ,,,,0.0,0.597,0.403,-0.4019,[],[],[],[],[]
+"Trump won Harley hell yes, get ready for the liberal tears",,,,0.416,0.28,0.304,0.34,[],"['Trump', 'Harley']",[],[],[]
+It’s so good! So happy! ,,,,0.728,0.272,0.0,0.8415,[],[],[],[],[]
+You’re a honey,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]

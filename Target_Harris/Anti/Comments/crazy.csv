@@ -1,4 +1,4 @@
-comment_text
-That's the best one so far
-"Vox Populi, Vox Dei   𝕏"
-Make America Great Again
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+That's the best one so far,,,,0.457,0.543,0.0,0.6369,[],[],[],[],[]
+"Vox Populi, Vox Dei   𝕏",,,,0.0,1.0,0.0,0.0,['Vox Dei'],['Vox Populi'],[],[],[]
+Make America Great Again,,,,0.577,0.423,0.0,0.6249,[],[],[],[],[]

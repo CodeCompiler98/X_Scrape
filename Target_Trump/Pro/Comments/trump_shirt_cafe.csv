@@ -1,8 +1,8 @@
-comment_text
-GOOD LORD!!! You're overflowing with #MAGA today!! 
-Hahaha I’m doing everything I can for the cause baby! 
-Worry about your own self-respect before worrying about the respect of the world. First- your brains aren't in your boobs. Second- Trump is the misogynist of the century. Spare us your phony indignation.
-I’m in love…..
-It will be that way soon beautiful
-Keep spreading the message sweet Harley. Looking so damn good. TRUMP  24 MAGA  4ever. Garbage  Going in the stadium now in Jacksonville FL for the Georgia/Florida College Football  game. GO DAWGS!! See you later gorgeous/sexy woman.  
-Good morning beautiful
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+GOOD LORD!!! You're overflowing with #MAGA today!! ,,#MAGA,,0.444,0.556,0.0,0.7004,['MAGA'],[],[],[],['today']
+Hahaha I’m doing everything I can for the cause baby! ,,,,0.327,0.673,0.0,0.5983,['Hahaha I’m'],[],[],[],[]
+Worry about your own self-respect before worrying about the respect of the world. First- your brains aren't in your boobs. Second- Trump is the misogynist of the century. Spare us your phony indignation.,,,,0.076,0.711,0.213,-0.6808,[],[],[],[],['the century']
+I’m in love…..,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+It will be that way soon beautiful,,,,0.394,0.606,0.0,0.5994,[],[],[],[],[]
+Keep spreading the message sweet Harley. Looking so damn good. TRUMP  24 MAGA  4ever. Garbage  Going in the stadium now in Jacksonville FL for the Georgia/Florida College Football  game. GO DAWGS!! See you later gorgeous/sexy woman.  ,,,,0.156,0.763,0.081,0.5058,[],"['Harley', 'TRUMP', 'MAGA', 'Garbage  Going']",['Jacksonville'],[],[]
+Good morning beautiful,,,,0.872,0.128,0.0,0.7783,[],[],[],[],[]

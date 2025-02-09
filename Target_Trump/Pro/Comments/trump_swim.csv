@@ -1,9 +1,9 @@
-comment_text
-"Yes, Yes, Yes and Hell YES "
-GM beautiful Susan  
-Good morning Susan
-You too
-Good morning Susan!  Enjoy the day!
-Conservative Ladies are the best. 
-Happy Saturday
-"Strong Conservative People agree to these principles - it’s in there heart, there belief moral value system   -  God, Family and Country the foundation of Love and Life"
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+"Yes, Yes, Yes and Hell YES ",,,,0.673,0.058,0.268,0.7125,[],[],[],[],[]
+GM beautiful Susan  ,,,,0.661,0.339,0.0,0.5994,['Susan  '],['GM'],[],[],[]
+Good morning Susan,,,,0.592,0.408,0.0,0.4404,['Susan'],[],[],[],[]
+You too,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Good morning Susan!  Enjoy the day!,,,,0.626,0.374,0.0,0.7707,['Susan'],[],[],[],['the day']
+Conservative Ladies are the best. ,,,,0.512,0.488,0.0,0.6369,[],[],[],[],[]
+Happy Saturday,,,,0.787,0.213,0.0,0.5719,[],[],[],[],['Saturday']
+"Strong Conservative People agree to these principles - it’s in there heart, there belief moral value system   -  God, Family and Country the foundation of Love and Life",,,,0.408,0.592,0.0,0.926,[],[],[],[],[]

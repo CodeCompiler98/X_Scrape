@@ -1,5 +1,5 @@
-comment_text
-Imagine not knowing what adjucated means 
-Not guilty. Still your next President KAREN.  Cope.  
-Imagine being proud of this tweet. He demeans women on a daily basis and wants to strip you of your rights. 24 sexual harassment allegations. Paid 5 million for being “not guilty”. Stay proud 
-Poor Karen seems to be having a difficult time accepting the fact that Trump is not guilty and is STILL GOING TO BE YOUR NEXT PRESIDENT. 
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Imagine not knowing what adjucated means ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Not guilty. Still your next President KAREN.  Cope.  ,,,,0.25,0.75,0.0,0.3252,"['KAREN', 'Cope']",[],[],[],[]
+Imagine being proud of this tweet. He demeans women on a daily basis and wants to strip you of your rights. 24 sexual harassment allegations. Paid 5 million for being “not guilty”. Stay proud ,,,,0.16,0.749,0.09,0.4019,[],[],[],[],['daily']
+Poor Karen seems to be having a difficult time accepting the fact that Trump is not guilty and is STILL GOING TO BE YOUR NEXT PRESIDENT. ,,,,0.156,0.666,0.178,-0.17,"['Karen', 'Trump']",['STILL GOING TO BE YOUR'],[],[],[]

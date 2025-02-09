@@ -1,7 +1,7 @@
-comment_text
-Dem moron....
-Seriously?? 
-God there are some real dickheads on x
-You're desperate lol
-"Trump has zero authority to order anyone, anywhere. WTF"
-you are strange
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Dem moron....,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+Seriously?? ,,,,0.0,0.0,1.0,-0.264,[],[],[],[],[]
+God there are some real dickheads on x,,,,0.259,0.741,0.0,0.2732,[],[],[],[],[]
+You're desperate lol,,,,0.459,0.164,0.377,0.128,[],[],[],[],[]
+"Trump has zero authority to order anyone, anywhere. WTF",,,,0.101,0.545,0.353,-0.6408,[],"['Trump', 'WTF']",[],[],[]
+you are strange,,,,0.0,0.526,0.474,-0.2023,[],[],[],[],[]

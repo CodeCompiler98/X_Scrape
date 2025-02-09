@@ -1,8 +1,8 @@
-comment_text
-Good morning Susan! God bless our biological women! Have a Happy Thirsty  Thursday Beautiful!
-Susan you always have the most friends.
-No doubting that....
-@_ElleJohnson  truly one of the most beautiful women on social media
- Good Morning
-We need some honest answers here lol
-"Marry Christmas, Susan. Love your photos.  -Rick"
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Good morning Susan! God bless our biological women! Have a Happy Thirsty  Thursday Beautiful!,,,,0.67,0.33,0.0,0.9458,"['Susan', 'God']",[],[],[],['Thursday']
+Susan you always have the most friends.,,,,0.361,0.639,0.0,0.5256,['Susan'],[],[],[],[]
+No doubting that....,,,,0.0,0.179,0.821,-0.5574,[],[],[],[],[]
+@_ElleJohnson  truly one of the most beautiful women on social media,@_ElleJohnson,,,0.441,0.559,0.0,0.796,[],[],[],[],[]
+ Good Morning,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[]
+We need some honest answers here lol,,,,0.55,0.45,0.0,0.7269,[],[],[],[],[]
+"Marry Christmas, Susan. Love your photos.  -Rick",,,,0.412,0.588,0.0,0.6369,"['Marry Christmas', 'Susan']",[],[],[],[]

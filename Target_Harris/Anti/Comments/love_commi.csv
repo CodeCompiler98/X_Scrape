@@ -1,4 +1,4 @@
-comment_text
-Trump rally speaker: “There’s literally a floating island of garbage in the middle of the ocean right now. I think it’s called Puerto Rico”
-"Thanks AOC for explaining our fact check from earlier!  This is a comedian, no Tony doesn't actually think that, he wrote the roasts for Comedy Central.  But here at the end, Tim Walz sneaks in a lie.  Trump gave historic aid to Puerto Rico, truth below:"
-"THE LIE: Trump blocked Puerto Rico from receiving hurricane aid.  THE TRUTH: Trump supplied historic aid that is well documented.  This lie shows just how desperate KamalaHQ and the media are.  Here are the facts:  - On January 5, 2021, Trump announced additional support for"
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Trump rally speaker: “There’s literally a floating island of garbage in the middle of the ocean right now. I think it’s called Puerto Rico”,,,,0.0,1.0,0.0,0.0,[],['Trump'],['Puerto Rico'],[],[]
+"Thanks AOC for explaining our fact check from earlier!  This is a comedian, no Tony doesn't actually think that, he wrote the roasts for Comedy Central.  But here at the end, Tim Walz sneaks in a lie.  Trump gave historic aid to Puerto Rico, truth below:",,,,0.177,0.79,0.032,0.7304,"['Tony', 'Tim Walz', 'Trump']","['AOC', 'Comedy Central']",['Puerto Rico'],[],[]
+"THE LIE: Trump blocked Puerto Rico from receiving hurricane aid.  THE TRUTH: Trump supplied historic aid that is well documented.  This lie shows just how desperate KamalaHQ and the media are.  Here are the facts:  - On January 5, 2021, Trump announced additional support for",,,,0.153,0.761,0.086,0.5319,['KamalaHQ'],"['LIE', 'Trump']",['Puerto Rico'],[],"['January 5, 2021']"

@@ -1,4 +1,4 @@
-comment_text
-"New: To commemorate the third anniversary of the Afghanistan withdrawal, I’m told Donald Trump will be at Arlington National Cemetery tomorrow to honor the fallen soldiers in a private event.  He’ll be joined by some of the family members of those killed during the withdrawal."
-"Trump has used everyone around him for his personal gains. Values, Purpose, Sacrifice mean nothing to him.   #TrumpIsUnfitForOffice #VeteransForHarrisWalz #Vete"
-And emily is scared of losing her climate change job.
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+"New: To commemorate the third anniversary of the Afghanistan withdrawal, I’m told Donald Trump will be at Arlington National Cemetery tomorrow to honor the fallen soldiers in a private event.  He’ll be joined by some of the family members of those killed during the withdrawal.",,,,0.105,0.759,0.136,-0.5574,['Donald Trump'],[],['Afghanistan'],[],['tomorrow']
+"Trump has used everyone around him for his personal gains. Values, Purpose, Sacrifice mean nothing to him.   #TrumpIsUnfitForOffice #VeteransForHarrisWalz #Vete",,#TrumpIsUnfitForOffice #VeteransForHarrisWalz #Vete,,0.221,0.779,0.0,0.6249,[],"['Trump', 'Purpose', 'Sacrifice']",[],[],[]
+And emily is scared of losing her climate change job.,,,,0.0,0.593,0.407,-0.6705,[],[],[],[],[]

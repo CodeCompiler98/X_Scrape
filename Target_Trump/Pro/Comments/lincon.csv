@@ -1,5 +1,5 @@
-comment_text
-@SChimamoto #MAGA #MAHA IFBAP 
-@SHTF_NH
-"@MaggieCollin3   IFBAP Skipping right ahead happily, for the win!"
-@Chrisssmustang
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+@SChimamoto #MAGA #MAHA IFBAP ,@SChimamoto,#MAGA #MAHA,,0.0,1.0,0.0,0.0,"['MAGA', 'MAHA IFBAP']",[],[],[],[]
+@SHTF_NH,@SHTF_NH,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+"@MaggieCollin3   IFBAP Skipping right ahead happily, for the win!",@MaggieCollin3,,,0.524,0.476,0.0,0.8268,[],['IFBAP Skipping'],[],[],[]
+@Chrisssmustang,@Chrisssmustang,,,0.0,1.0,0.0,0.0,[],['@Chrisssmustang'],[],[],[]

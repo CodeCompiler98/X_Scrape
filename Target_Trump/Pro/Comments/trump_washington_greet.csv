@@ -1,2 +1,2 @@
-comment_text
-Let's connect X FRIENDS  @clark_kent10935  IFBAP
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Let's connect X FRIENDS  @clark_kent10935  IFBAP,@clark_kent10935,,,0.489,0.511,0.0,0.5904,[],['IFBAP'],[],[],[]

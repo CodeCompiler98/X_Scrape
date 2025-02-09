@@ -1,6 +1,6 @@
-comment_text
-Thats all they have is cheating 
-Yep!  They are desperate
-Absolutely   the California Communist HO has to go......
-#notothehoe I like that 
-True
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Thats all they have is cheating ,,,,0.0,0.581,0.419,-0.5574,[],[],[],[],[]
+Yep!  They are desperate,,,,0.324,0.294,0.382,-0.1007,[],[],[],[],[]
+Absolutely   the California Communist HO has to go......,,,,0.0,1.0,0.0,0.0,[],['the California Communist HO'],[],[],[]
+#notothehoe I like that ,,#notothehoe,,0.556,0.444,0.0,0.3612,[],[],[],[],[]
+True,,,,1.0,0.0,0.0,0.4215,[],[],[],[],[]

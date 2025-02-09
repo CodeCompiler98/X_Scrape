@@ -1,6 +1,6 @@
-comment_text
-Completed the mission last Tuesday.  It’s great to see so many smart gorgeous/sexy young MAGA  women out there. TRUMP 24 MAGA 2 the max. 
-Get yo friends and family to do the same!
-"Looking good, Janai!"
-Thanks babe 
-Did you complete the mission!?
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+Completed the mission last Tuesday.  It’s great to see so many smart gorgeous/sexy young MAGA  women out there. TRUMP 24 MAGA 2 the max. ,,,,0.252,0.748,0.0,0.7951,['max'],"['MAGA', 'TRUMP']",[],[],['last Tuesday']
+Get yo friends and family to do the same!,,,,0.298,0.702,0.0,0.5255,[],[],[],[],[]
+"Looking good, Janai!",,,,0.615,0.385,0.0,0.4926,['Janai'],[],[],[],[]
+Thanks babe ,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[]
+Did you complete the mission!?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]

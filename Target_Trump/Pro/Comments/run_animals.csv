@@ -1,2 +1,2 @@
-comment_text
-I’m from Springfield Ohio and everything being reported is true!
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+I’m from Springfield Ohio and everything being reported is true!,,,,0.256,0.744,0.0,0.4753,[],[],"['Springfield', 'Ohio']",[],[]

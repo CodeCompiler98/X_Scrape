@@ -1,4 +1,4 @@
-comment_text
-"Trump, bringing MAGA back to the whitehouse"
-Bunch of fucking weirdos
-PRAYING FOR THE PEOPLE THAT LOST A LOVE ONE   $MAGA
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
+"Trump, bringing MAGA back to the whitehouse",,,,0.0,1.0,0.0,0.0,[],"['Trump', 'MAGA']",[],[],[]
+Bunch of fucking weirdos,,,,0.0,0.556,0.444,-0.3384,[],[],[],['Bunch'],[]
+PRAYING FOR THE PEOPLE THAT LOST A LOVE ONE   $MAGA,,,,0.447,0.4,0.153,0.6597,['MAGA'],[],[],[],[]
