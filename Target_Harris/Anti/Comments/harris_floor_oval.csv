@@ -1,4 +1,4 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-"Trump's first day back in office in the White House, 20 January 2025.",,,,0.0,1.0,0.0,0.0,[],"['Trump', 'the White House']",[],[],"['first day', '20 January 2025']"
-With #KamalaCleaner cleaning the floor.,,#KamalaCleaner,,0.0,1.0,0.0,0.0,['KamalaCleaner'],[],[],[],[]
-Free my mind! Followed,,,,0.545,0.455,0.0,0.5562,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+"Trump's first day back in office in the White House, 20 January 2025.",,,,0.0,1.0,0.0,0.0,[],"['Trump', 'the White House']",[],[],"['first day', '20 January 2025']",0.004393658600747585,0.0004871877026744187,0.0010351291857659817,0.0011354296002537012,0.002395695773884654,0.0012940894812345505,0.0007147731375880539
+With #KamalaCleaner cleaning the floor.,,#KamalaCleaner,,0.0,1.0,0.0,0.0,['KamalaCleaner'],[],[],[],[],0.027058999985456467,0.0011418298818171024,0.003301780205219984,0.0016994752222672105,0.013403331860899925,0.0018135667778551579,0.00830348301678896
+Free my mind! Followed,,,,0.545,0.455,0.0,0.5562,[],[],[],[],[],0.005743489600718021,0.000483385578263551,0.000976256444118917,0.0015471080550923944,0.0026606612373143435,0.0007596582872793078,0.0008165544713847339

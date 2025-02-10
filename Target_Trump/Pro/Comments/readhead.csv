@@ -1,5 +1,5 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Trump,,,,0.0,1.0,0.0,0.0,[],['Trump'],[],[],[]
-Awesome and pretty,,,,0.88,0.12,0.0,0.8074,[],[],[],[],[]
-You!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Already voted for Trump,,,,0.0,1.0,0.0,0.0,[],['Trump'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Trump,,,,0.0,1.0,0.0,0.0,[],['Trump'],[],[],[],0.010666103102266788,0.0004833952116314322,0.0008391608716920018,0.0006672102608717978,0.007287282962352037,0.0012412132928147912,0.0007441487396135926
+Awesome and pretty,,,,0.88,0.12,0.0,0.8074,[],[],[],[],[],0.004253031685948372,0.0005111424252390862,0.0011298066237941384,0.0012195464223623276,0.0023537445813417435,0.0013781775487586856,0.0008262075716629624
+You!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.005566761828958988,0.0004864731163252145,0.0011770037235692143,0.001120573142543435,0.0031155948527157307,0.0006842114962637424,0.0008220126037485898
+Already voted for Trump,,,,0.0,1.0,0.0,0.0,[],['Trump'],[],[],[],0.00484446482732892,0.000483985582832247,0.0010185936698690057,0.001237745862454176,0.0025204301346093416,0.000949073291849345,0.0007585326093249023

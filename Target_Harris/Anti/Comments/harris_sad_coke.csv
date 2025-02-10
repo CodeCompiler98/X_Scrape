@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-"#KamalaLoser with cocaine on her jacket, wondering how she got $20m in debt.",,#KamalaLoser,,0.0,0.828,0.172,-0.3612,['KamalaLoser'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+"#KamalaLoser with cocaine on her jacket, wondering how she got $20m in debt.",,#KamalaLoser,,0.0,0.828,0.172,-0.3612,['KamalaLoser'],[],[],[],[],0.06696175038814545,0.0028339806012809277,0.009341780096292496,0.00546304602175951,0.03600066155195236,0.0030484695453196764,0.007229902315884829

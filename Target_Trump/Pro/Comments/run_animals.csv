@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-I’m from Springfield Ohio and everything being reported is true!,,,,0.256,0.744,0.0,0.4753,[],[],"['Springfield', 'Ohio']",[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+I’m from Springfield Ohio and everything being reported is true!,,,,0.256,0.744,0.0,0.4753,[],[],"['Springfield', 'Ohio']",[],[],0.004264418035745621,0.0005078589310869575,0.0011140098795294762,0.0012223654193803668,0.0023312445264309645,0.001384710893034935,0.0007660599076189101

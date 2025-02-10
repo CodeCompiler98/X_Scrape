@@ -1,8 +1,8 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Done! Everybody in my family voted for Trump!,,,,0.0,1.0,0.0,0.0,[],['Trump'],[],[],[]
-Get your neighbors too!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Got a few friends to get their votes in early yesterday here in Texas! 2 to go here and 5 till WE TAKE AMERICA BACK! Have a great day gorgeous Janai!,,,,0.335,0.665,0.0,0.9198,['Janai'],['WE TAKE AMERICA BACK'],['Texas'],[],['early yesterday']
-That’s the spirit!!,,,,0.533,0.467,0.0,0.3147,[],[],[],[],[]
-Super cute! ,,,,1.0,0.0,0.0,0.8016,[],['Super'],[],[],[]
-Thanksss babe ,,,,0.0,1.0,0.0,0.0,[],['Thanksss'],[],[],[]
-Ya listen to the hot lady and go give Trump all the support he can get ,,,,0.153,0.847,0.0,0.4019,['Ya'],['Trump'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Done! Everybody in my family voted for Trump!,,,,0.0,1.0,0.0,0.0,[],['Trump'],[],[],[],0.005543838255107403,0.00043474818812683225,0.0009037911659106612,0.0009755074279382825,0.0032545262947678566,0.000923730549402535,0.0005976263782940805
+Get your neighbors too!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.12108136713504791,0.004423900507390499,0.0018981238827109337,0.03764932602643967,0.06182311847805977,0.006509546656161547,0.0019223674898967147
+Got a few friends to get their votes in early yesterday here in Texas! 2 to go here and 5 till WE TAKE AMERICA BACK! Have a great day gorgeous Janai!,,,,0.335,0.665,0.0,0.9198,['Janai'],['WE TAKE AMERICA BACK'],['Texas'],[],['early yesterday'],0.004522627219557762,0.00045956650865264237,0.0010734270326793194,0.0012030344223603606,0.002412467962130904,0.0010548497084528208,0.0007359763840213418
+That’s the spirit!!,,,,0.533,0.467,0.0,0.3147,[],[],[],[],[],0.004269839730113745,0.0005092130741104484,0.0011494467034935951,0.001258930773474276,0.0022736855316907167,0.0014331014826893806,0.0008033537887968123
+Super cute! ,,,,1.0,0.0,0.0,0.8016,[],['Super'],[],[],[],0.004242172930389643,0.000538901484105736,0.0011765823001042008,0.0013656496303156018,0.0022734820377081633,0.0015455937245860696,0.0008947107126004994
+Thanksss babe ,,,,0.0,1.0,0.0,0.0,[],['Thanksss'],[],[],[],0.004511563573032618,0.0005097256507724524,0.0012946737697347999,0.001269686152227223,0.002292644465342164,0.0010934950551018119,0.0011414618929848075
+Ya listen to the hot lady and go give Trump all the support he can get ,,,,0.153,0.847,0.0,0.4019,['Ya'],['Trump'],[],[],[],0.08525165915489197,0.002237363252788782,0.007593200076371431,0.0016425380017608404,0.039039865136146545,0.008101359009742737,0.05016733333468437

@@ -1,6 +1,6 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Facebook execs suppressed Hunter Biden laptop scandal in order to curry favor with Biden-Harris admin: bombshell report https://trib.al/Nb3k5l6,,,https://trib.al/Nb3k5l6,0.125,0.741,0.134,-0.0516,"['Hunter Biden', 'https://trib.al/Nb3k5l6']",['Biden-Harris'],[],[],[]
-"And you’ve never suppressed anything on X, Elon?   Come on",,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Proof?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Ask  @kenklippenstein,@kenklippenstein,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Average kamala the dictator lie,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Facebook execs suppressed Hunter Biden laptop scandal in order to curry favor with Biden-Harris admin: bombshell report https://trib.al/Nb3k5l6,,,https://trib.al/Nb3k5l6,0.125,0.741,0.134,-0.0516,"['Hunter Biden', 'https://trib.al/Nb3k5l6']",['Biden-Harris'],[],[],[],0.0063710520043969154,0.0004916799371130764,0.0009883031016215682,0.0016239385586231947,0.003106433665379882,0.000748640566598624,0.000682622950989753
+"And you’ve never suppressed anything on X, Elon?   Come on",,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004466157406568527,0.00048790156142786145,0.0010657908860594034,0.0012205748353153467,0.0023616452235728502,0.0011660351883620024,0.0007031678105704486
+Proof?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004393984563648701,0.0005278000026009977,0.0011426666751503944,0.0013990617590025067,0.002276431769132614,0.0012822144199162722,0.0009080348536372185
+Ask  @kenklippenstein,@kenklippenstein,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.0051298849284648895,0.0004870400589425117,0.0010962997330352664,0.0012672202428802848,0.0026051595341414213,0.000817607156932354,0.0007139875087887049
+Average kamala the dictator lie,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.5907861590385437,0.012606553733348846,0.014054215513169765,0.003114075865596533,0.5774966478347778,0.009843413718044758,0.002035293495282531

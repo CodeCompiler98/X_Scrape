@@ -1,4 +1,4 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Where do you guys get this crap from???,,,,0.0,0.664,0.336,-0.5484,[],[],[],[],[]
-U funny,,,,1.0,0.0,0.0,0.4404,[],[],[],[],[]
-You’re sad. Go bend down on one knee to this guy,,,,0.0,0.763,0.237,-0.4767,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Where do you guys get this crap from???,,,,0.0,0.664,0.336,-0.5484,[],[],[],[],[],0.8725395202636719,0.07760709524154663,0.8019137382507324,0.00414078775793314,0.4645550549030304,0.006728290114551783,0.004075262695550919
+U funny,,,,1.0,0.0,0.0,0.4404,[],[],[],[],[],0.004326694644987583,0.0004903235821984708,0.001109234755858779,0.0012312288163229823,0.0023579976987093687,0.0011730113765224814,0.0008771430002525449
+You’re sad. Go bend down on one knee to this guy,,,,0.0,0.763,0.237,-0.4767,[],[],[],[],[],0.12493164092302322,0.006652702111750841,0.003481905208900571,0.07744421064853668,0.03593079373240471,0.0028523318469524384,0.0055494122207164764

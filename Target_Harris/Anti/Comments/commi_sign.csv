@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Ok well this is true ,,,,0.78,0.22,0.0,0.7269,[],[],[],[],[]
-The fact that it is misspelled highlights her low IQ.,,,,0.0,0.811,0.189,-0.2732,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Ok well this is true ,,,,0.78,0.22,0.0,0.7269,[],[],[],[],[],0.004212064202874899,0.0005235575372353196,0.0011469934834167361,0.001341167837381363,0.002308259252458811,0.001435927813872695,0.0009000053396448493
+The fact that it is misspelled highlights her low IQ.,,,,0.0,0.811,0.189,-0.2732,[],[],[],[],[],0.5743202567100525,0.011477622203528881,0.007201250176876783,0.0018746055429801345,0.5719590187072754,0.02157117798924446,0.0019363935571163893

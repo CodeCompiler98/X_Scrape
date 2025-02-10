@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-The free handouts from #HarrisWalz will continue until we have massive inflation AGAIN!!!,,#HarrisWalz,,0.258,0.742,0.0,0.6341,[],['HarrisWalz'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+The free handouts from #HarrisWalz will continue until we have massive inflation AGAIN!!!,,#HarrisWalz,,0.258,0.742,0.0,0.6341,[],['HarrisWalz'],[],[],[],0.019307801499962807,0.0007494382443837821,0.0012493178946897388,0.0010664972942322493,0.011683150194585323,0.0013664456782862544,0.0010311660589650273

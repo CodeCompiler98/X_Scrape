@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-"Thanks,  my president.  God bless you  ",,,,0.722,0.278,0.0,0.7783,['God'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+"Thanks,  my president.  God bless you  ",,,,0.722,0.278,0.0,0.7783,['God'],[],[],[],[],0.004266706295311451,0.0005483044078573585,0.0012062984751537442,0.0013796823332086205,0.0022578181233257055,0.0016606315039098263,0.000862901215441525

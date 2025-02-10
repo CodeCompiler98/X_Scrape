@@ -1,8 +1,8 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Fake as hell. Trump will not resist in this case to seek sympathizer and gain popularity! Works of photoshop,,,,0.22,0.509,0.271,-0.3595,['Trump'],[],[],[],[]
-Maybe ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
- epic,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-"If it's on the internet,  it must be true?",,,,0.259,0.741,0.0,0.4215,[],[],[],[],[]
-I’m actually surprised this didn’t get more hits,,,,0.213,0.787,0.0,0.2263,[],[],[],[],[]
-"While completely fake, I would have preferred it happened this way!  Of course, one shout at him probably would have been enough to make him fall on the ground and turtle up because he’s such a b**ch masquerading as a tough guy!  Yes, I hate the SOB! ",,,,0.051,0.718,0.231,-0.8591,[],['SOB'],[],[],[]
-IA out XD,,,,0.694,0.306,0.0,0.6739,[],[],['IA'],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Fake as hell. Trump will not resist in this case to seek sympathizer and gain popularity! Works of photoshop,,,,0.22,0.509,0.271,-0.3595,['Trump'],[],[],[],[],0.3835890591144562,0.018838273361325264,0.25474852323532104,0.005103402771055698,0.23122890293598175,0.015217120759189129,0.00444043381139636
+Maybe ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004546484909951687,0.000528630509506911,0.0011959101539105177,0.0015434413217008114,0.002251169178634882,0.0011205134214833379,0.0009947721846401691
+ epic,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.0054250238463282585,0.00047645141603425145,0.0011683155316859484,0.0011196801206097007,0.0028508189134299755,0.0007556064520031214,0.0008007422438822687
+"If it's on the internet,  it must be true?",,,,0.259,0.741,0.0,0.4215,[],[],[],[],[],0.004359475336968899,0.0004765315097756684,0.0010047565447166562,0.001044497825205326,0.002559385262429714,0.001229679910466075,0.0006782994605600834
+I’m actually surprised this didn’t get more hits,,,,0.213,0.787,0.0,0.2263,[],[],[],[],[],0.09291497617959976,0.004495248198509216,0.003514514770358801,0.07280199229717255,0.01734120212495327,0.0015184421790763736,0.0019593355245888233
+"While completely fake, I would have preferred it happened this way!  Of course, one shout at him probably would have been enough to make him fall on the ground and turtle up because he’s such a b**ch masquerading as a tough guy!  Yes, I hate the SOB! ",,,,0.051,0.718,0.231,-0.8591,[],['SOB'],[],[],[],0.5897297263145447,0.04612194001674652,0.44601696729660034,0.04211215674877167,0.46218734979629517,0.011471419595181942,0.03629642724990845
+IA out XD,,,,0.694,0.306,0.0,0.6739,[],[],['IA'],[],[],0.005486677400767803,0.0005498991231434047,0.0018006740137934685,0.001186252455227077,0.002461781958118081,0.000878937600646168,0.0012580861803144217

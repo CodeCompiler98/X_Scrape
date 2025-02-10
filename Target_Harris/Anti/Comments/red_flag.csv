@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-That jacket is definitely her!,,,,0.428,0.572,0.0,0.4574,[],[],[],[],[]
-"This is very fitting for her, bet she would have been great friends with Joseph Stalin",,,,0.34,0.66,0.0,0.802,['Joseph Stalin'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+That jacket is definitely her!,,,,0.428,0.572,0.0,0.4574,[],[],[],[],[],0.005756727419793606,0.0004450145352166146,0.0011086156591773033,0.000813226739410311,0.0026891387533396482,0.0012831025524064898,0.0011964497389271855
+"This is very fitting for her, bet she would have been great friends with Joseph Stalin",,,,0.34,0.66,0.0,0.802,['Joseph Stalin'],[],[],[],[],0.0042873225174844265,0.0005058911046944559,0.0010913985315710306,0.001251698355190456,0.0023679998703300953,0.0012515439884737134,0.0007677736575715244

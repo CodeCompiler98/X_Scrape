@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-I’m concerned that a dangerous Skeksis somehow made it into the Capitol Building!,,,,0.0,0.764,0.236,-0.5255,[],[],[],[],[]
-Right.,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+I’m concerned that a dangerous Skeksis somehow made it into the Capitol Building!,,,,0.0,0.764,0.236,-0.5255,[],[],[],[],[],0.26789483428001404,0.008132416754961014,0.007747988682240248,0.009656763635575771,0.23861679434776306,0.021384909749031067,0.00224205176346004
+Right.,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004254631698131561,0.0005190735100768507,0.0011425289558246732,0.0013340312289074063,0.0023397193290293217,0.0012916920240968466,0.0009242120431736112

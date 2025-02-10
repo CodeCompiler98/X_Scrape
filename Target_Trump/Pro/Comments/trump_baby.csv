@@ -1,8 +1,8 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-you guys are fucking braindead lol,,,,0.381,0.619,0.0,0.4728,[],[],[],[],[]
-Why ?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-" $MAGA lets you trade tax-free! Unlike $TRUMP, no buy/sell taxes here—just pure gains!   https://binance.com/en/how-to-buy/maga-ethereum… @MAGACoinX  | The Only Official Account",@MAGACoinX,,https://binance.com/en/how-to-buy/maga-ethereum…,0.135,0.766,0.099,0.1984,"['MAGA', 'TRUMP']",[],[],[],[]
-100%,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Maga,,,,0.0,1.0,0.0,0.0,['Maga'],[],[],[],[]
-. Absolutely need Trump to win. $RTR  @RestoretheRep,@RestoretheRep,,,0.388,0.612,0.0,0.5859,['RTR'],['Trump'],[],[],[]
-MAGA is the mission $Maga is the ticker!,,,,0.0,1.0,0.0,0.0,['Maga'],['MAGA'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+you guys are fucking braindead lol,,,,0.381,0.619,0.0,0.4728,[],[],[],[],[],0.939087450504303,0.16583819687366486,0.8645870089530945,0.012645521201193333,0.8935301899909973,0.054350417107343674,0.18751507997512817
+Why ?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004370116163045168,0.0005318677285686135,0.0011263914639130235,0.0013670158805325627,0.0023053698241710663,0.0013246251037344337,0.0008778596529737115
+" $MAGA lets you trade tax-free! Unlike $TRUMP, no buy/sell taxes here—just pure gains!   https://binance.com/en/how-to-buy/maga-ethereum… @MAGACoinX  | The Only Official Account",@MAGACoinX,,https://binance.com/en/how-to-buy/maga-ethereum…,0.135,0.766,0.099,0.1984,"['MAGA', 'TRUMP']",[],[],[],[],0.007366045378148556,0.0004692450456786901,0.0010787094943225384,0.0007367471698671579,0.005015440750867128,0.0012146754888817668,0.0006186933605931699
+100%,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004303236957639456,0.0005349841667339206,0.0011574741220101714,0.0013627239968627691,0.002268727868795395,0.0014484828570857644,0.000816881365608424
+Maga,,,,0.0,1.0,0.0,0.0,['Maga'],[],[],[],[],0.005267007276415825,0.00045967125333845615,0.0013035099254921079,0.001154344412498176,0.0027684380766004324,0.0008169178618118167,0.000889086164534092
+. Absolutely need Trump to win. $RTR  @RestoretheRep,@RestoretheRep,,,0.388,0.612,0.0,0.5859,['RTR'],['Trump'],[],[],[],0.0045761726796627045,0.00045987608609721065,0.0010170959867537022,0.001066730939783156,0.002474964829161763,0.0011046744184568524,0.0006524983327835798
+MAGA is the mission $Maga is the ticker!,,,,0.0,1.0,0.0,0.0,['Maga'],['MAGA'],[],[],[],0.015571280382573605,0.0008474717615172267,0.0027801210526376963,0.0009143099887296557,0.01111480500549078,0.0011068960884585977,0.0011776688043028116

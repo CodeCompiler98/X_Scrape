@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-"Hey Diamond Dave I bet You didn't remember me, and it's ALL Good so let's get this guy in the White House!  Hey Kamalala Jump Jump Jump Around ",,,,0.183,0.817,0.0,0.68,['Jump Jump Jump Around'],['the White House'],[],[],[]
- Keep Trump around .  ,,,,0.0,1.0,0.0,0.0,['Keep Trump'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+"Hey Diamond Dave I bet You didn't remember me, and it's ALL Good so let's get this guy in the White House!  Hey Kamalala Jump Jump Jump Around ",,,,0.183,0.817,0.0,0.68,['Jump Jump Jump Around'],['the White House'],[],[],[],0.18432600796222687,0.014892780221998692,0.0031073607970029116,0.19276119768619537,0.023381585255265236,0.006451298948377371,0.0028451490215957165
+ Keep Trump around .  ,,,,0.0,1.0,0.0,0.0,['Keep Trump'],[],[],[],[],0.12496397644281387,0.00341122061945498,0.0015272799646481872,0.028413882479071617,0.07286325842142105,0.00532914325594902,0.0011757364263758063

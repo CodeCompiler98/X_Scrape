@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Kamala Harris interview prep #kamalaisanalcoholic #alcoholawareness,,#kamalaisanalcoholic #alcoholawareness,,0.0,1.0,0.0,0.0,['Kamala Harris'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Kamala Harris interview prep #kamalaisanalcoholic #alcoholawareness,,#kamalaisanalcoholic #alcoholawareness,,0.0,1.0,0.0,0.0,['Kamala Harris'],[],[],[],[],0.0654493123292923,0.00244978629052639,0.005626979749649763,0.0017019695369526744,0.042347025126218796,0.005150528624653816,0.007334485650062561

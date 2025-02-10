@@ -1,6 +1,6 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Time to take out the trash and move in the White House,,,,0.0,1.0,0.0,0.0,[],['the White House'],[],[],[]
-Normally I would have more respect than to do like this but they do not deserve respect after what they've done to our country.,,,,0.299,0.701,0.0,0.8194,[],[],[],[],[]
-Well done ,,,,0.677,0.323,0.0,0.2732,[],[],[],[],[]
-Yes!,,,,1.0,0.0,0.0,0.4574,[],[],[],[],[]
-Trumps the Anti-Christ fool.  He destroying America already.  He and Russian spy Elon stole the election.   The destroyed 14 million Democratic votes through illegal canvassing.   Evil conservative mindset.,,,,0.0,0.565,0.435,-0.9565,[],[],['America'],"['Russian', 'Democratic']",[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Time to take out the trash and move in the White House,,,,0.0,1.0,0.0,0.0,[],['the White House'],[],[],[],0.6808666586875916,0.030437486246228218,0.023169981315732002,0.08594349771738052,0.6353644132614136,0.029005443677306175,0.002794804284349084
+Normally I would have more respect than to do like this but they do not deserve respect after what they've done to our country.,,,,0.299,0.701,0.0,0.8194,[],[],[],[],[],0.009485166519880295,0.00045295379823073745,0.000808351265732199,0.0008750056731514633,0.005464548245072365,0.0021940458100289106,0.0004993991460651159
+Well done ,,,,0.677,0.323,0.0,0.2732,[],[],[],[],[],0.0042189438827335835,0.0005172021919861436,0.0011426275596022606,0.0013078070478513837,0.0023322629276663065,0.0014595878310501575,0.0008235462009906769
+Yes!,,,,1.0,0.0,0.0,0.4574,[],[],[],[],[],0.004252296872437,0.0005439651431515813,0.001174143748357892,0.001436894410289824,0.002291172044351697,0.0014394773170351982,0.0009067644132301211
+Trumps the Anti-Christ fool.  He destroying America already.  He and Russian spy Elon stole the election.   The destroyed 14 million Democratic votes through illegal canvassing.   Evil conservative mindset.,,,,0.0,0.565,0.435,-0.9565,[],[],['America'],"['Russian', 'Democratic']",[],0.7920570373535156,0.03520920127630234,0.08403224498033524,0.008161431178450584,0.7794095277786255,0.11353188753128052,0.0027848549652844667

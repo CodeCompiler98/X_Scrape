@@ -1,4 +1,4 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-January 2025: If Comrade Harris Wins!,,,,0.444,0.556,0.0,0.6114,['Harris Wins'],[],[],[],['January 2025']
-#Kamunism ,,#Kamunism,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Indeed,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+January 2025: If Comrade Harris Wins!,,,,0.444,0.556,0.0,0.6114,['Harris Wins'],[],[],[],['January 2025'],0.00490893330425024,0.0005128938355483115,0.0010654478101059794,0.0014230316737666726,0.0024220943450927734,0.000887801987119019,0.0007086239056661725
+#Kamunism ,,#Kamunism,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004731049761176109,0.0004516368790064007,0.0009113329579122365,0.0009489128715358675,0.0025197328068315983,0.0015473173698410392,0.0006793807842768729
+Indeed,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004237868823111057,0.0005188133218325675,0.0011193436803296208,0.0013330747606232762,0.002387166256085038,0.0012742995750159025,0.0008979021804407239

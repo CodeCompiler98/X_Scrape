@@ -1,10 +1,10 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-I hope you wore that to the polls lol MAGA,,,,0.449,0.551,0.0,0.6908,[],['MAGA'],[],[],[]
-I got some staring ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-So what kind of stuff will you be posting after Trump wins?,,,,0.252,0.748,0.0,0.5719,['Trump'],[],[],[],[]
-certainly will keep being maga proud! But can throw in some other fun stuff too ,,,,0.414,0.586,0.0,0.8172,[],[],[],[],[]
-Kind of busting out HarleyBelle...,,,,0.0,1.0,0.0,0.0,[],['HarleyBelle'],[],[],[]
-The damn button wouldn’t stay ,,,,0.0,0.597,0.403,-0.4019,[],[],[],[],[]
-"Trump won Harley hell yes, get ready for the liberal tears",,,,0.416,0.28,0.304,0.34,[],"['Trump', 'Harley']",[],[],[]
-It’s so good! So happy! ,,,,0.728,0.272,0.0,0.8415,[],[],[],[],[]
-You’re a honey,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+I hope you wore that to the polls lol MAGA,,,,0.449,0.551,0.0,0.6908,[],['MAGA'],[],[],[],0.0092704389244318,0.000545406830497086,0.001608769642189145,0.0009353893110528588,0.006502088624984026,0.0009416344109922647,0.0006735794595442712
+I got some staring ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004283818416297436,0.0005064351134933531,0.0011049244785681367,0.0012654189486056566,0.0023471596650779247,0.0012860298156738281,0.0007756075938232243
+So what kind of stuff will you be posting after Trump wins?,,,,0.252,0.748,0.0,0.5719,['Trump'],[],[],[],[],0.004730187356472015,0.000451013445854187,0.000977173913270235,0.0009942116448655725,0.002711628330871463,0.0009817464742809534,0.0006262186798267066
+certainly will keep being maga proud! But can throw in some other fun stuff too ,,,,0.414,0.586,0.0,0.8172,[],[],[],[],[],0.004512949381023645,0.0004596077196765691,0.0010493965819478035,0.0010820559691637754,0.002392739290371537,0.0011211251839995384,0.0007482710643671453
+Kind of busting out HarleyBelle...,,,,0.0,1.0,0.0,0.0,[],['HarleyBelle'],[],[],[],0.09413400292396545,0.0051275561563670635,0.01107596792280674,0.06904570758342743,0.018179256469011307,0.0015990373212844133,0.0053744385950267315
+The damn button wouldn’t stay ,,,,0.0,0.597,0.403,-0.4019,[],[],[],[],[],0.8042907118797302,0.06800231337547302,0.8054715991020203,0.005119722336530685,0.2586742043495178,0.002456499496474862,0.003975620027631521
+"Trump won Harley hell yes, get ready for the liberal tears",,,,0.416,0.28,0.304,0.34,[],"['Trump', 'Harley']",[],[],[],0.4822045564651489,0.021014345809817314,0.13810321688652039,0.050009164959192276,0.31660664081573486,0.09733693301677704,0.003927634097635746
+It’s so good! So happy! ,,,,0.728,0.272,0.0,0.8415,[],[],[],[],[],0.0042381868697702885,0.0005335064488463104,0.0011672386899590492,0.0013205425348132849,0.002287216717377305,0.0016227259766310453,0.0008382960222661495
+You’re a honey,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.5502203106880188,0.010740202851593494,0.011359288357198238,0.00201174127869308,0.5514823794364929,0.006705533247441053,0.00793324876576662

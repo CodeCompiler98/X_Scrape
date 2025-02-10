@@ -1,7 +1,7 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Can someone tell me a left wing policy Kamala campaigned on?,,,,0.0,1.0,0.0,0.0,['Kamala'],[],[],[],[]
-"Respect people's pronouns, apparently.",,,,0.508,0.492,0.0,0.4767,[],['Respect'],[],[],[]
-Cry more,,,,0.0,0.244,0.756,-0.4767,[],[],[],[],[]
-Still waiting on that far-left policy,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-"Read the thread , Boomer",,,,0.0,1.0,0.0,0.0,['Boomer'],[],[],[],[]
-Kamala put out that picture as her policy?,,,,0.0,1.0,0.0,0.0,[],[],['Kamala'],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Can someone tell me a left wing policy Kamala campaigned on?,,,,0.0,1.0,0.0,0.0,['Kamala'],[],[],[],[],0.012670567259192467,0.0004833258572034538,0.0008440454257652164,0.0006201302749104798,0.008791670203208923,0.0025803593453019857,0.0006050399970263243
+"Respect people's pronouns, apparently.",,,,0.508,0.492,0.0,0.4767,[],['Respect'],[],[],[],0.004497074987739325,0.00046120359911583364,0.0009854752570390701,0.0010565504198893905,0.002508877543732524,0.0011734416475519538,0.0006662780069746077
+Cry more,,,,0.0,0.244,0.756,-0.4767,[],[],[],[],[],0.023420199751853943,0.0007853358401916921,0.0015299806836992502,0.001580997952260077,0.01320593524724245,0.001213597715832293,0.001832998706959188
+Still waiting on that far-left policy,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.005281832534819841,0.00042577803833410144,0.0008946164161898196,0.0008663185290060937,0.002933117328211665,0.0013151704333722591,0.0005800784565508366
+"Read the thread , Boomer",,,,0.0,1.0,0.0,0.0,['Boomer'],[],[],[],[],0.004679547622799873,0.00046950363321229815,0.0010149315930902958,0.001059691421687603,0.002599290804937482,0.000977630726993084,0.0006962104234844446
+Kamala put out that picture as her policy?,,,,0.0,1.0,0.0,0.0,[],[],['Kamala'],[],[],0.004843435250222683,0.00043612331501208246,0.0009950109524652362,0.0009210557909682393,0.0028277442324906588,0.0009558471501804888,0.0006610620766878128

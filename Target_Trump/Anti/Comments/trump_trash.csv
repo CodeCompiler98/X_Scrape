@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-I think Trump has Covid!,,,,0.0,1.0,0.0,0.0,"['Trump', 'Covid']",[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+I think Trump has Covid!,,,,0.0,1.0,0.0,0.0,"['Trump', 'Covid']",[],[],[],[],0.023531416431069374,0.0006989762769080698,0.0012722063111141324,0.00038223472074605525,0.018943525850772858,0.0010597525397315621,0.0023854339960962534

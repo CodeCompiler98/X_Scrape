@@ -1,6 +1,6 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-They are already bitten off. You got anything i could bite on?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-I have a leather belt you could use,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Everyone must Vote.       Vote Red #VoteRed,,#VoteRed,,0.0,1.0,0.0,0.0,['VoteRed'],[],[],[],[]
-You're awesome!  MAGAPDJT,,,,0.687,0.313,0.0,0.6588,[],[],[],[],[]
-I. follow you. Stephen too you &myself VikasGupta from. India both love Trumps famoly+victor 6nov result will be ours. Pretty girl  you can chat me here or facebook too. Thanks,,,,0.276,0.724,0.0,0.8834,['Trumps famoly+victor 6nov'],['VikasGupta'],['India'],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+They are already bitten off. You got anything i could bite on?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.25846990942955017,0.01489526778459549,0.008410965092480183,0.1925366371870041,0.052117787301540375,0.00486664567142725,0.014021426439285278
+I have a leather belt you could use,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004968443885445595,0.0005552740185521543,0.0011274596909061074,0.0017212859820574522,0.0021703175734728575,0.001051945029757917,0.0009930506348609924
+Everyone must Vote.       Vote Red #VoteRed,,#VoteRed,,0.0,1.0,0.0,0.0,['VoteRed'],[],[],[],[],0.005128076765686274,0.0004685048770625144,0.001060676178894937,0.0011188579956069589,0.0024675780441612005,0.0011111885542050004,0.0006650904542766511
+You're awesome!  MAGAPDJT,,,,0.687,0.313,0.0,0.6588,[],[],[],[],[],0.004497724585235119,0.0004618559032678604,0.0011258304584771395,0.0010359007865190506,0.0024365668650716543,0.0012610356789082289,0.0009316555806435645
+I. follow you. Stephen too you &myself VikasGupta from. India both love Trumps famoly+victor 6nov result will be ours. Pretty girl  you can chat me here or facebook too. Thanks,,,,0.276,0.724,0.0,0.8834,['Trumps famoly+victor 6nov'],['VikasGupta'],['India'],[],[],0.007597725838422775,0.0004250860947649926,0.0007803046028129756,0.0008591138175688684,0.0047606416046619415,0.003574173664674163,0.0004360505554359406

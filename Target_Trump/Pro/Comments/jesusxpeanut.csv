@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-"Thank you,  Scott  Evil will not win. Vote Trump. Find red votes and let's vote. Together our light will overcome the darkness.",,,,0.083,0.601,0.316,-0.7889,['Trump'],['Scott  Evil'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+"Thank you,  Scott  Evil will not win. Vote Trump. Find red votes and let's vote. Together our light will overcome the darkness.",,,,0.083,0.601,0.316,-0.7889,['Trump'],['Scott  Evil'],[],[],[],0.007681491784751415,0.0004823027993552387,0.0008980227867141366,0.0012772621121257544,0.004278844688087702,0.0015194178558886051,0.0005167373456060886

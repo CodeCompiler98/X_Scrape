@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-This it is,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+This it is,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004309314303100109,0.0004980867379345,0.0010899283224716783,0.0012689867289736867,0.0023796549066901207,0.001167405629530549,0.0007892065332271159

@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-They hate Russia so much that they want to be just like em!,,,,0.23,0.562,0.208,-0.2942,[],[],['Russia'],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+They hate Russia so much that they want to be just like em!,,,,0.23,0.562,0.208,-0.2942,[],[],['Russia'],[],[],0.5761985778808594,0.025724517181515694,0.0064920699223876,0.011259451508522034,0.23318541049957275,0.5382063984870911,0.001579359406605363

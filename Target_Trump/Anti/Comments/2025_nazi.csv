@@ -1,7 +1,7 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-This is hateful and violent rhetoric.,,,,0.0,0.36,0.64,-0.7964,[],[],[],[],[]
-Democrats Express Relief That Hitler Is OK https://buff.ly/3MOKLrK,,,https://buff.ly/3MOKLrK,0.501,0.499,0.0,0.7213,['Hitler'],[],[],['Democrats'],[]
-You,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Liberalism is a serious mental disorder..seek help,,,,0.338,0.5,0.163,0.34,[],['Liberalism'],[],[],[]
-"Well because I know the mainstream.  If I had to pin a person that is most like a modern Hitler in a  america, it's certainly kamala.",,,,0.288,0.712,0.0,0.7425,['Hitler'],[],['america'],[],[]
-You know it's tards yapping about trump.,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+This is hateful and violent rhetoric.,,,,0.0,0.36,0.64,-0.7964,[],[],[],[],[],0.3662635087966919,0.005980820395052433,0.011819662526249886,0.00506950356066227,0.32922354340553284,0.005652870982885361,0.0015776421641930938
+Democrats Express Relief That Hitler Is OK https://buff.ly/3MOKLrK,,,https://buff.ly/3MOKLrK,0.501,0.499,0.0,0.7213,['Hitler'],[],[],['Democrats'],[],0.1441175788640976,0.005730822682380676,0.011268018744885921,0.0077276029624044895,0.08551047742366791,0.06331022083759308,0.00701137026771903
+You,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.025551872327923775,0.0008267726516351104,0.0015118062729015946,0.0013635351788252592,0.01890406757593155,0.0004939410137012601,0.001076254528015852
+Liberalism is a serious mental disorder..seek help,,,,0.338,0.5,0.163,0.34,[],['Liberalism'],[],[],[],0.6942793726921082,0.024413440376520157,0.011930391192436218,0.003840105840936303,0.6519368886947632,0.23217728734016418,0.0017069970490410924
+"Well because I know the mainstream.  If I had to pin a person that is most like a modern Hitler in a  america, it's certainly kamala.",,,,0.288,0.712,0.0,0.7425,['Hitler'],[],['america'],[],[],0.17372488975524902,0.005460250657051802,0.0044554597698152065,0.003505395259708166,0.14152377843856812,0.0541020892560482,0.001303517958149314
+You know it's tards yapping about trump.,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.48131638765335083,0.008543474599719048,0.026516979560256004,0.0023026098497211933,0.45912063121795654,0.005960853770375252,0.0018454600358381867

@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Hold the line!!!! The spirit of peanut is with you!!!!!!!!!,,,,0.242,0.758,0.0,0.4344,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Hold the line!!!! The spirit of peanut is with you!!!!!!!!!,,,,0.242,0.758,0.0,0.4344,[],[],[],[],[],0.0071344380266964436,0.0005205281777307391,0.0012536245631054044,0.0011390970321372151,0.003878525225445628,0.001201458158902824,0.000683633319567889

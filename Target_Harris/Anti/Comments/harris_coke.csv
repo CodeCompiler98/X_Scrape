@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-#cocaineKamala,,#cocaineKamala,,0.0,1.0,0.0,0.0,['cocaineKamala'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+#cocaineKamala,,#cocaineKamala,,0.0,1.0,0.0,0.0,['cocaineKamala'],[],[],[],[],0.05475917458534241,0.0020504819694906473,0.013486001640558243,0.001763188629411161,0.036052264273166656,0.001953665167093277,0.003597453236579895

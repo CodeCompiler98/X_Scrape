@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-First free speech.,,,,0.623,0.377,0.0,0.5106,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+First free speech.,,,,0.623,0.377,0.0,0.5106,[],[],[],[],[],0.004341757390648127,0.000510835088789463,0.0011216962011530995,0.0012486653868108988,0.0023269541561603546,0.0012296002823859453,0.0008672340190969408

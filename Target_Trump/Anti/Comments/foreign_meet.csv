@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-You are so fake to a point that you can't even post anything real ,,,,0.0,0.75,0.25,-0.6113,[],[],[],[],[]
-Trump would be the latter I would pray for. He is getting everything he deserves.,,,,0.15,0.85,0.0,0.3182,[],['Trump'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+You are so fake to a point that you can't even post anything real ,,,,0.0,0.75,0.25,-0.6113,[],[],[],[],[],0.5663607716560364,0.009705010801553726,0.00781400315463543,0.001665011397562921,0.5637608766555786,0.004895809106528759,0.0013348781503736973
+Trump would be the latter I would pray for. He is getting everything he deserves.,,,,0.15,0.85,0.0,0.3182,[],['Trump'],[],[],[],0.11659926176071167,0.0021209779661148787,0.001688862917944789,0.004180596210062504,0.09903725981712341,0.002493661129847169,0.001810451503843069

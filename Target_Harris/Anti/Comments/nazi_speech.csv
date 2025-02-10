@@ -1,7 +1,7 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-ironic since trump said he wanted his generals be like the one's hitler had..... yes she's the fascist? I swear maga are morons,,,,0.174,0.537,0.289,-0.34,[],[],[],[],[]
-No he didnt  complete lie ! Go watch what was actually said,,,,0.0,0.801,0.199,-0.3595,[],[],[],[],[]
-"That is what's  going down at Madison Square  Garden 1939 all over again ""Trump 1939""",,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Hitler suppressed free speech just like the demo are trying to do . Nice try pussy,,,,0.417,0.583,0.0,0.8225,['Hitler'],[],[],[],[]
-#KamalaGropedMe too!  Believe all men,,#KamalaGropedMe,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Another nutcase triggered ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+ironic since trump said he wanted his generals be like the one's hitler had..... yes she's the fascist? I swear maga are morons,,,,0.174,0.537,0.289,-0.34,[],[],[],[],[],0.8394187688827515,0.038571976125240326,0.2194877415895462,0.005038300529122353,0.838545024394989,0.06207761541008949,0.0026677839923650026
+No he didnt  complete lie ! Go watch what was actually said,,,,0.0,0.801,0.199,-0.3595,[],[],[],[],[],0.04994991049170494,0.0010692094219848514,0.0020466335117816925,0.0009299690718762577,0.044175706803798676,0.0009066832135431468,0.000712029926944524
+"That is what's  going down at Madison Square  Garden 1939 all over again ""Trump 1939""",,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004687658976763487,0.00042984538595192134,0.0009615719900466502,0.000880537845660001,0.002706706989556551,0.0011165182804688811,0.0006724746199324727
+Hitler suppressed free speech just like the demo are trying to do . Nice try pussy,,,,0.417,0.583,0.0,0.8225,['Hitler'],[],[],[],[],0.8731676340103149,0.08006060123443604,0.7719780206680298,0.004856905899941921,0.4329690933227539,0.03058052249252796,0.8103303909301758
+#KamalaGropedMe too!  Believe all men,,#KamalaGropedMe,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.056230075657367706,0.0019973143935203552,0.0012410880299285054,0.010209314525127411,0.023786790668964386,0.023649033159017563,0.0012018638662993908
+Another nutcase triggered ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.5867733359336853,0.017788585275411606,0.03449460119009018,0.0692317932844162,0.553006649017334,0.005780158564448357,0.004818975925445557

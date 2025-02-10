@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-FOR OUR RECONSTRUCTED NATION VOTE TRUMP.  OUR DREAMS WILL NOT BE LOST.  THE ONLY CHANCE WE HAVE IS TRUMP. ,,,,0.294,0.706,0.0,0.687,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+FOR OUR RECONSTRUCTED NATION VOTE TRUMP.  OUR DREAMS WILL NOT BE LOST.  THE ONLY CHANCE WE HAVE IS TRUMP. ,,,,0.294,0.706,0.0,0.687,[],[],[],[],[],0.040186807513237,0.0015235303435474634,0.0012567813973873854,0.0036468100734055042,0.03082749806344509,0.003437112318351865,0.0006182657089084387

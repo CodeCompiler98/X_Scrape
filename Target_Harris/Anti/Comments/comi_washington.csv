@@ -1,6 +1,6 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-January 2025: If Comrade Harris Wins!,,,,0.444,0.556,0.0,0.6114,['Harris Wins'],[],[],[],['January 2025']
-Weirdos do love AI,,,,0.506,0.241,0.253,0.4767,[],[],['AI'],[],[]
-"Yes!!! Yes we are, because we know the truth:  Communism  Marxism Fascism Dictators Putin Jung Un Maduro Castro  Frump  Are all from the same evil swamp.",,,,0.245,0.629,0.126,0.4898,"['Putin Jung Un', 'Maduro Castro']",['Frump'],[],[],[]
-Educate the stupid young. They hear free but tell them where it really comes from!,,,,0.122,0.737,0.141,-0.088,[],[],[],[],[]
-Kamunism,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+January 2025: If Comrade Harris Wins!,,,,0.444,0.556,0.0,0.6114,['Harris Wins'],[],[],[],['January 2025'],0.00490893330425024,0.0005128938355483115,0.0010654478101059794,0.0014230316737666726,0.0024220943450927734,0.000887801987119019,0.0007086239056661725
+Weirdos do love AI,,,,0.506,0.241,0.253,0.4767,[],[],['AI'],[],[],0.6241005063056946,0.01623547449707985,0.056462910026311874,0.0022449784446507692,0.6158003807067871,0.05235865339636803,0.003941181115806103
+"Yes!!! Yes we are, because we know the truth:  Communism  Marxism Fascism Dictators Putin Jung Un Maduro Castro  Frump  Are all from the same evil swamp.",,,,0.245,0.629,0.126,0.4898,"['Putin Jung Un', 'Maduro Castro']",['Frump'],[],[],[],0.518798291683197,0.01851661689579487,0.013052491471171379,0.007331542670726776,0.4782540202140808,0.15969842672348022,0.002312772674486041
+Educate the stupid young. They hear free but tell them where it really comes from!,,,,0.122,0.737,0.141,-0.088,[],[],[],[],[],0.874333381652832,0.02697780914604664,0.12810538709163666,0.00613097520545125,0.8485915064811707,0.03199787810444832,0.002525132615119219
+Kamunism,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.010676232166588306,0.0005071843625046313,0.0007313367677852511,0.0006015867693349719,0.006570969708263874,0.003908408340066671,0.000566068512853235

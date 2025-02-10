@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Trump is the antichrist.,,,,0.0,1.0,0.0,0.0,[],['Trump'],[],[],[]
-"Or the reincarnation of Hitler. Either way, he's dangerous.",,,,0.0,0.721,0.279,-0.4767,['Hitler'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Trump is the antichrist.,,,,0.0,1.0,0.0,0.0,[],['Trump'],[],[],[],0.7241639494895935,0.022705422714352608,0.009265640750527382,0.002271133242174983,0.6552976965904236,0.19908495247364044,0.004238420631736517
+"Or the reincarnation of Hitler. Either way, he's dangerous.",,,,0.0,0.721,0.279,-0.4767,['Hitler'],[],[],[],[],0.44536668062210083,0.008685009554028511,0.006498917005956173,0.005735285580158234,0.40844541788101196,0.026746336370706558,0.0011084144935011864

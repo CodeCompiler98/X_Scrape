@@ -1,5 +1,5 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Yum yum yum,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-#KeepAmericaGreat #MAGA #Trump #TrumpBabes #TrumpGirlOnFire #Winning,,#KeepAmericaGreat #MAGA #Trump #TrumpBabes #TrumpGirlOnFire #Winning,,0.0,1.0,0.0,0.0,"['MAGA', 'Trump']",[],[],[],[]
-Sweet Mother of Jesus…… Imagine the fun with those three beauties…..Phhhhewwwww…..,,,,0.412,0.588,0.0,0.743,"['Sweet Mother', 'Phhhhewwwww']",[],[],[],[]
-#hotmaga,,#hotmaga,,0.0,1.0,0.0,0.0,['hotmaga'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Yum yum yum,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004296781960874796,0.0005035990034230053,0.0011018041986972094,0.001272999681532383,0.002361671067774296,0.0012000661808997393,0.0007857647724449635
+#KeepAmericaGreat #MAGA #Trump #TrumpBabes #TrumpGirlOnFire #Winning,,#KeepAmericaGreat #MAGA #Trump #TrumpBabes #TrumpGirlOnFire #Winning,,0.0,1.0,0.0,0.0,"['MAGA', 'Trump']",[],[],[],[],0.0871167853474617,0.002426708582788706,0.0034681716933846474,0.002197090070694685,0.07072639465332031,0.008714308962225914,0.0015386783052235842
+Sweet Mother of Jesus…… Imagine the fun with those three beauties…..Phhhhewwwww…..,,,,0.412,0.588,0.0,0.743,"['Sweet Mother', 'Phhhhewwwww']",[],[],[],[],0.030304353684186935,0.001349725411273539,0.0027471650391817093,0.0011105096200481057,0.010875849053263664,0.020392069593071938,0.011808918789029121
+#hotmaga,,#hotmaga,,0.0,1.0,0.0,0.0,['hotmaga'],[],[],[],[],0.004794493783265352,0.0004993781330995262,0.0011615278199315071,0.001456099678762257,0.002183003118261695,0.0012417264515534043,0.0007380964234471321

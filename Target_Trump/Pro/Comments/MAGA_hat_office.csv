@@ -1,8 +1,8 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-I’ll do it all right,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Don’t forget to vote tomorrow!,,,,0.0,0.646,0.354,-0.2942,[],[],[],[],['tomorrow']
-I VOTE YES!!!,,,,0.781,0.219,0.0,0.5538,[],[],[],[],[]
-Get your friends and family on it as well!,,,,0.44,0.56,0.0,0.6696,[],[],[],[],[]
-You are so sexy.  Your beautiful boobs look amazing in that bra and your belly is so kissable.,,,,0.536,0.464,0.0,0.9531,[],[],[],[],[]
-Thanks babe. Don’t forget about the mission!,,,,0.316,0.495,0.188,0.3164,[],[],[],[],[]
-We understand the assignment #PuertoRicand4Trump #PuertoRicansForTrump #AsiansForTrump,,#PuertoRicand4Trump #PuertoRicansForTrump #AsiansForTrump,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+I’ll do it all right,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004465523641556501,0.0005711084813810885,0.001235639094375074,0.001706079812720418,0.002232485683634877,0.0011838688515126705,0.0008610052755102515
+Don’t forget to vote tomorrow!,,,,0.0,0.646,0.354,-0.2942,[],[],[],[],['tomorrow'],0.004483672324568033,0.0005314067821018398,0.0011249316157773137,0.0014867122517898679,0.0022817542776465416,0.0011739811161532998,0.0007737708510830998
+I VOTE YES!!!,,,,0.781,0.219,0.0,0.5538,[],[],[],[],[],0.004293698817491531,0.0005510676419362426,0.0012053238460794091,0.0014877631328999996,0.0022298130206763744,0.0014362192014232278,0.0009133614366874099
+Get your friends and family on it as well!,,,,0.44,0.56,0.0,0.6696,[],[],[],[],[],0.00444249389693141,0.0005020303651690483,0.0011107097379863262,0.001397898537106812,0.002333689946681261,0.0011419740039855242,0.0007679025293327868
+You are so sexy.  Your beautiful boobs look amazing in that bra and your belly is so kissable.,,,,0.536,0.464,0.0,0.9531,[],[],[],[],[],0.689548909664154,0.03188592195510864,0.24480515718460083,0.002316951984539628,0.18667910993099213,0.022290945053100586,0.7150493860244751
+Thanks babe. Don’t forget about the mission!,,,,0.316,0.495,0.188,0.3164,[],[],[],[],[],0.004900406114757061,0.0004937134799547493,0.001463178894482553,0.0011409916914999485,0.0022351215593516827,0.001267057261429727,0.0012615728192031384
+We understand the assignment #PuertoRicand4Trump #PuertoRicansForTrump #AsiansForTrump,,#PuertoRicand4Trump #PuertoRicansForTrump #AsiansForTrump,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.026604313403367996,0.0012077459832653403,0.0014219433069229126,0.001274408889003098,0.01256917417049408,0.028553135693073273,0.0006512104882858694

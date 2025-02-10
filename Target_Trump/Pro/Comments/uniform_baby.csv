@@ -1,6 +1,6 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-PROTECT OUR BABIES #MAGA,,#MAGA,,0.464,0.536,0.0,0.3818,['MAGA'],[],[],[],[]
-"#TimWalzRuinedMinnesota  #Harris chose him for one reason? After 30+extended visits to China, he knows how to “control” the population. His family knows him & his policies well. They’re ALL voting #Trump2024",,#TimWalzRuinedMinnesota #Harris #Trump2024,,0.068,0.932,0.0,0.2732,['Harris'],[],['China'],[],[]
-God bless you both,,,,0.71,0.29,0.0,0.5994,['God'],[],[],[],[]
-So tiny.,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-And $CHIB  @chib_erc20  the saviour of #DOGE and #NEIRO ,@chib_erc20,#DOGE #NEIRO,,0.0,1.0,0.0,0.0,['NEIRO'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+PROTECT OUR BABIES #MAGA,,#MAGA,,0.464,0.536,0.0,0.3818,['MAGA'],[],[],[],[],0.040369510650634766,0.002169621642678976,0.002915248041972518,0.013257084414362907,0.013374488800764084,0.0038077556528151035,0.007036596070975065
+"#TimWalzRuinedMinnesota  #Harris chose him for one reason? After 30+extended visits to China, he knows how to “control” the population. His family knows him & his policies well. They’re ALL voting #Trump2024",,#TimWalzRuinedMinnesota #Harris #Trump2024,,0.068,0.932,0.0,0.2732,['Harris'],[],['China'],[],[],0.006068630609661341,0.00041591483750380576,0.0008552088984288275,0.0007771001546643674,0.003568069078028202,0.0010615314822643995,0.0005877177463844419
+God bless you both,,,,0.71,0.29,0.0,0.5994,['God'],[],[],[],[],0.004402158781886101,0.0005491941119544208,0.0012462990125641227,0.0013976769987493753,0.002160005969926715,0.001801681355573237,0.0008989388588815928
+So tiny.,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.016103176400065422,0.0006751840119250119,0.0010710093192756176,0.0006678499048575759,0.012087578885257244,0.0009309260058216751,0.0018343490082770586
+And $CHIB  @chib_erc20  the saviour of #DOGE and #NEIRO ,@chib_erc20,#DOGE #NEIRO,,0.0,1.0,0.0,0.0,['NEIRO'],[],[],[],[],0.021445680409669876,0.001051776111125946,0.004814456682652235,0.0019498466281220317,0.013932298868894577,0.0008514851797372103,0.0009151767590083182

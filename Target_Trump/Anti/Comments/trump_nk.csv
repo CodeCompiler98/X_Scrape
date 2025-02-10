@@ -1,5 +1,5 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-The 2 worst hairdos in human history.,,,,0.0,0.549,0.451,-0.6249,[],[],[],[],[]
-Is Trump smuggling in a watermelon under his coat?,,,,0.0,0.693,0.307,-0.4767,['Trump'],[],[],[],[]
-Damn need better graphics card..,,,,0.337,0.349,0.314,0.0516,[],[],[],[],[]
-You have it twisted commie Kamala and waltz are the communists and you are too or your to dumb to know,,,,0.0,0.858,0.142,-0.5106,[],[],['Kamala'],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+The 2 worst hairdos in human history.,,,,0.0,0.549,0.451,-0.6249,[],[],[],[],[],0.274379700422287,0.006615135818719864,0.008010848425328732,0.004082682076841593,0.24154584109783173,0.02487308345735073,0.0031910038087517023
+Is Trump smuggling in a watermelon under his coat?,,,,0.0,0.693,0.307,-0.4767,['Trump'],[],[],[],[],0.17104166746139526,0.00336822890676558,0.005669631529599428,0.002310741227120161,0.14569872617721558,0.011549708433449268,0.013998077251017094
+Damn need better graphics card..,,,,0.337,0.349,0.314,0.0516,[],[],[],[],[],0.7840391397476196,0.06217096373438835,0.7972439527511597,0.003694176208227873,0.24767328798770905,0.004232035484164953,0.0032050188165158033
+You have it twisted commie Kamala and waltz are the communists and you are too or your to dumb to know,,,,0.0,0.858,0.142,-0.5106,[],[],['Kamala'],[],[],0.7882934808731079,0.027824534103274345,0.06445079296827316,0.004918562714010477,0.7721089720726013,0.08978626877069473,0.004095720127224922

@@ -1,6 +1,6 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Is that food among the gravestones? What the hell is this picture??,,,,0.0,0.601,0.399,-0.7677,[],[],[],[],[]
-Trump set up a concession stand. Obviously.,,,,0.0,1.0,0.0,0.0,[],['Trump'],[],[],[]
-"hot dogs , fries and chicken fingers on top of grave stones what class the fat fucking disgusting pig",,,,0.078,0.65,0.273,-0.6697,[],[],[],[],[]
-"These Ai photos are a joke. Orange man is missing a pinky and what’s with the hands coming out of the takeout tray (zoom in, you see fingers with nails). They are so weird!",,,,0.061,0.807,0.132,-0.3681,[],[],[],[],[]
-Aww you fucking Kamala simp  You are upset that people in the Military love Trump and hate Kamala ?,,,,0.165,0.588,0.247,-0.2732,['Trump'],[],"['Kamala', 'Kamala']",[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Is that food among the gravestones? What the hell is this picture??,,,,0.0,0.601,0.399,-0.7677,[],[],[],[],[],0.40382498502731323,0.01575443148612976,0.3093101978302002,0.003810996888205409,0.14809268712997437,0.010329099372029305,0.003549242625012994
+Trump set up a concession stand. Obviously.,,,,0.0,1.0,0.0,0.0,[],['Trump'],[],[],[],0.06553969532251358,0.0011644951300695539,0.0018756326753646135,0.0010024260263890028,0.056619688868522644,0.001944656134583056,0.0011995980748906732
+"hot dogs , fries and chicken fingers on top of grave stones what class the fat fucking disgusting pig",,,,0.078,0.65,0.273,-0.6697,[],[],[],[],[],0.863723874092102,0.09551017731428146,0.7370544672012329,0.004639465361833572,0.7927377223968506,0.09618621319532394,0.02107539214193821
+"These Ai photos are a joke. Orange man is missing a pinky and what’s with the hands coming out of the takeout tray (zoom in, you see fingers with nails). They are so weird!",,,,0.061,0.807,0.132,-0.3681,[],[],[],[],[],0.02611095830798149,0.0008261344046331942,0.001255047507584095,0.0007217501988634467,0.02094070427119732,0.005056537687778473,0.0007321421289816499
+Aww you fucking Kamala simp  You are upset that people in the Military love Trump and hate Kamala ?,,,,0.165,0.588,0.247,-0.2732,['Trump'],[],"['Kamala', 'Kamala']",[],[],0.8581877946853638,0.11432349681854248,0.8157727718353271,0.009897592477500439,0.6971736550331116,0.07506338506937027,0.03152163699269295

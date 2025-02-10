@@ -1,8 +1,8 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Good morning Susan! God bless our biological women! Have a Happy Thirsty  Thursday Beautiful!,,,,0.67,0.33,0.0,0.9458,"['Susan', 'God']",[],[],[],['Thursday']
-Susan you always have the most friends.,,,,0.361,0.639,0.0,0.5256,['Susan'],[],[],[],[]
-No doubting that....,,,,0.0,0.179,0.821,-0.5574,[],[],[],[],[]
-@_ElleJohnson  truly one of the most beautiful women on social media,@_ElleJohnson,,,0.441,0.559,0.0,0.796,[],[],[],[],[]
- Good Morning,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[]
-We need some honest answers here lol,,,,0.55,0.45,0.0,0.7269,[],[],[],[],[]
-"Marry Christmas, Susan. Love your photos.  -Rick",,,,0.412,0.588,0.0,0.6369,"['Marry Christmas', 'Susan']",[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Good morning Susan! God bless our biological women! Have a Happy Thirsty  Thursday Beautiful!,,,,0.67,0.33,0.0,0.9458,"['Susan', 'God']",[],[],[],['Thursday'],0.04538927227258682,0.0018257300835102797,0.0017260448075830936,0.0015195603482425213,0.027940189465880394,0.019624151289463043,0.0025375420227646828
+Susan you always have the most friends.,,,,0.361,0.639,0.0,0.5256,['Susan'],[],[],[],[],0.004288499243557453,0.0005087422323413193,0.001108887605369091,0.0012594476575031877,0.0023478567600250244,0.0013759874273091555,0.000753257714677602
+No doubting that....,,,,0.0,0.179,0.821,-0.5574,[],[],[],[],[],0.00430780416354537,0.0005085226148366928,0.0011599499266594648,0.0013211859622970223,0.002279621083289385,0.0012516082497313619,0.000861184555105865
+@_ElleJohnson  truly one of the most beautiful women on social media,@_ElleJohnson,,,0.441,0.559,0.0,0.796,[],[],[],[],[],0.00429007550701499,0.000504414492752403,0.0010860105976462364,0.0011717650340870023,0.0024104088079184294,0.0013047992251813412,0.0007610063184984028
+ Good Morning,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[],0.004338341299444437,0.0005393886240199208,0.001190953771583736,0.001365203526802361,0.002232938539236784,0.0015428762417286634,0.0008865389972925186
+We need some honest answers here lol,,,,0.55,0.45,0.0,0.7269,[],[],[],[],[],0.0059466310776770115,0.00043503398774191737,0.0010498310439288616,0.0008859066292643547,0.003987510688602924,0.0008835322805680335,0.0006810756749473512
+"Marry Christmas, Susan. Love your photos.  -Rick",,,,0.412,0.588,0.0,0.6369,"['Marry Christmas', 'Susan']",[],[],[],[],0.00429381662979722,0.0005224481574259698,0.00113636814057827,0.0012878004927188158,0.002255271654576063,0.0016735655954107642,0.0008605135953985155

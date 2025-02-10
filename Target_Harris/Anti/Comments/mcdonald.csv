@@ -1,7 +1,7 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-What a cunty thing to say - Pr1ck,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Hello,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Not long I'm sure,,,,0.0,0.605,0.395,-0.2411,[],[],[],[],[]
-Does she have sleeping sickness,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Biden accused  elon of steeling his presidency when  he bought  X,,,,0.0,0.804,0.196,-0.296,[],['Biden'],[],[],[]
-Lord of the White House with a political twist… Biden accuses @elonmusk of stealing his Presidential Seal ring when he bought twitter/X !   Starring:,@elonmusk,,,0.0,0.758,0.242,-0.75,['Biden'],['the White House'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+What a cunty thing to say - Pr1ck,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.05091659724712372,0.00233999895863235,0.03478118032217026,0.0014485967112705112,0.021035293117165565,0.0008728402317501605,0.016923679038882256
+Hello,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004251838196069002,0.0005276597221381962,0.0011171188671141863,0.0013535538455471396,0.0023064459674060345,0.0014764238148927689,0.0008712108246982098
+Not long I'm sure,,,,0.0,0.605,0.395,-0.2411,[],[],[],[],[],0.004323039669543505,0.0005409919540397823,0.0011507198214530945,0.001462683081626892,0.002269589575007558,0.0013374213594943285,0.000815078557934612
+Does she have sleeping sickness,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.038638632744550705,0.001081419992260635,0.0021298108622431755,0.0013386333594098687,0.0279361791908741,0.0018321902025491,0.0022085674572736025
+Biden accused  elon of steeling his presidency when  he bought  X,,,,0.0,0.804,0.196,-0.296,[],['Biden'],[],[],[],0.008905616588890553,0.0004988051950931549,0.000933525909204036,0.0013947522966191173,0.004939316306263208,0.0013860560720786452,0.0006854358362033963
+Lord of the White House with a political twist… Biden accuses @elonmusk of stealing his Presidential Seal ring when he bought twitter/X !   Starring:,@elonmusk,,,0.0,0.758,0.242,-0.75,['Biden'],['the White House'],[],[],[],0.08164981007575989,0.001832954352721572,0.0022863312624394894,0.001552643720060587,0.07731060683727264,0.0052642845548689365,0.0013475008308887482

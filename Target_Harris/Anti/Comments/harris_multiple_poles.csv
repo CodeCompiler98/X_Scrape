@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Don't ever watch the Epstein camera tapes Dre!,,,,0.0,1.0,0.0,0.0,['Epstein'],['Dre'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Don't ever watch the Epstein camera tapes Dre!,,,,0.0,1.0,0.0,0.0,['Epstein'],['Dre'],[],[],[],0.0075567117892205715,0.0005115304375067353,0.0009813879150897264,0.0012386698508635163,0.00364915793761611,0.0015187214594334364,0.0008068686001934111

@@ -1,4 +1,4 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-I’m on a limit ban at the moment but #IFBAP  let’s connect  Here’s a nice one,,#IFBAP,,0.206,0.667,0.128,0.34,['IFBAP'],[],[],[],[]
-Ban is lifted,,,,0.0,0.357,0.643,-0.5574,[],[],[],[],[]
-Lol why the first person I click on   what I do!,,,,0.279,0.721,0.0,0.4753,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+I’m on a limit ban at the moment but #IFBAP  let’s connect  Here’s a nice one,,#IFBAP,,0.206,0.667,0.128,0.34,['IFBAP'],[],[],[],[],0.005384097341448069,0.00048454603529535234,0.0010686860186979175,0.0013202960835769773,0.002418951131403446,0.0009939270094037056,0.0008717543096281588
+Ban is lifted,,,,0.0,0.357,0.643,-0.5574,[],[],[],[],[],0.004467323888093233,0.0005438639782369137,0.0011512953788042068,0.0014606424374505877,0.002229745266959071,0.0013508145930245519,0.0009396192617714405
+Lol why the first person I click on   what I do!,,,,0.279,0.721,0.0,0.4753,[],[],[],[],[],0.006335408426821232,0.0004923062515445054,0.0013459078036248684,0.00110227195546031,0.0038684792816638947,0.0008430174202658236,0.000814082333818078

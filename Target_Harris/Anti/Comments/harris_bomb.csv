@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-#KamalaNuclear,,#KamalaNuclear,,0.0,1.0,0.0,0.0,['KamalaNuclear'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+#KamalaNuclear,,#KamalaNuclear,,0.0,1.0,0.0,0.0,['KamalaNuclear'],[],[],[],[],0.026420434936881065,0.0010479814372956753,0.0014128212351351976,0.0021325689740478992,0.01377513725310564,0.00933833047747612,0.0027177061419934034

@@ -1,4 +1,4 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-"Trump, bringing MAGA back to the whitehouse",,,,0.0,1.0,0.0,0.0,[],"['Trump', 'MAGA']",[],[],[]
-Bunch of fucking weirdos,,,,0.0,0.556,0.444,-0.3384,[],[],[],['Bunch'],[]
-PRAYING FOR THE PEOPLE THAT LOST A LOVE ONE   $MAGA,,,,0.447,0.4,0.153,0.6597,['MAGA'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+"Trump, bringing MAGA back to the whitehouse",,,,0.0,1.0,0.0,0.0,[],"['Trump', 'MAGA']",[],[],[],0.012949799187481403,0.0005310576525516808,0.0009489412186667323,0.0010024827206507325,0.00897431094199419,0.0021798645611852407,0.0006342515116557479
+Bunch of fucking weirdos,,,,0.0,0.556,0.444,-0.3384,[],[],[],['Bunch'],[],0.9245717525482178,0.12226668745279312,0.831342875957489,0.006926128175109625,0.8606936931610107,0.0264842938631773,0.08845949172973633
+PRAYING FOR THE PEOPLE THAT LOST A LOVE ONE   $MAGA,,,,0.447,0.4,0.153,0.6597,['MAGA'],[],[],[],[],0.04995658993721008,0.0025799949653446674,0.018011702224612236,0.0028226959984749556,0.010955572128295898,0.007983907125890255,0.042208366096019745

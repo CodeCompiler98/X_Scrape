@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Let's connect X FRIENDS  @clark_kent10935  IFBAP,@clark_kent10935,,,0.489,0.511,0.0,0.5904,[],['IFBAP'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Let's connect X FRIENDS  @clark_kent10935  IFBAP,@clark_kent10935,,,0.489,0.511,0.0,0.5904,[],['IFBAP'],[],[],[],0.004820981528609991,0.0005008748848922551,0.0011305048828944564,0.0012235199101269245,0.002266524126753211,0.0010311739752069116,0.0010684655280783772

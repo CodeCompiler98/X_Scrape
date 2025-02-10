@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-"We are together, my president, to rebuild the nation.  We will have a great nation again.",,,,0.227,0.773,0.0,0.6249,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+"We are together, my president, to rebuild the nation.  We will have a great nation again.",,,,0.227,0.773,0.0,0.6249,[],[],[],[],[],0.0045240530744194984,0.0005069211474619806,0.0010665932204574347,0.001257426687516272,0.0023424504324793816,0.0011718709720298648,0.0007216556114144623

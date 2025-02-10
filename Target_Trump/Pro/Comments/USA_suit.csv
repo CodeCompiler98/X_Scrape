@@ -1,6 +1,6 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Awesome ,,,,1.0,0.0,0.0,0.6249,[],[],[],[],[]
-God is truly Good.!,,,,0.726,0.274,0.0,0.6476,[],[],[],[],[]
-No doubt about it ,,,,0.0,0.299,0.701,-0.5719,[],[],[],[],[]
-I feel like a Biology major  ,,,,0.455,0.545,0.0,0.3612,[],[],[],[],[]
-We don't even have to worry about that nonsense much anymore after We The People spoke and said we are ready to get back to normal.,,,,0.08,0.74,0.18,-0.4767,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Awesome ,,,,1.0,0.0,0.0,0.6249,[],[],[],[],[],0.004264543764293194,0.0005415600026026368,0.0011729124234989285,0.0013913095463067293,0.0022807116620242596,0.0014817422488704324,0.000912941584829241
+God is truly Good.!,,,,0.726,0.274,0.0,0.6476,[],[],[],[],[],0.004404200706630945,0.0005263958009891212,0.0011690758401528,0.0011555214878171682,0.002259946195408702,0.0020045796409249306,0.0008418192737735808
+No doubt about it ,,,,0.0,0.299,0.701,-0.5719,[],[],[],[],[],0.004289154428988695,0.0005103941075503826,0.0011247891234233975,0.00133855314925313,0.002316887956112623,0.0012242724187672138,0.0008507545571774244
+I feel like a Biology major  ,,,,0.455,0.545,0.0,0.3612,[],[],[],[],[],0.004220077767968178,0.0004890043055638671,0.0010815818095579743,0.001125649781897664,0.0024143552873283625,0.0013095831964164972,0.0007921774522401392
+We don't even have to worry about that nonsense much anymore after We The People spoke and said we are ready to get back to normal.,,,,0.08,0.74,0.18,-0.4767,[],[],[],[],[],0.23011720180511475,0.00391123304143548,0.012841925956308842,0.002336520468816161,0.21599432826042175,0.0028310955967754126,0.001762938336469233

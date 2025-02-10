@@ -1,4 +1,4 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-  excellent,,,,1.0,0.0,0.0,0.5719,[],[],[],[],[]
-Glad you enjoyed!  LET's GO!,,,,0.696,0.304,0.0,0.7835,[],[],[],[],[]
-Beautiful blonds and MAGA.  Its what God wants for us all.,,,,0.4,0.6,0.0,0.7184,[],['MAGA'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+  excellent,,,,1.0,0.0,0.0,0.5719,[],[],[],[],[],0.004225417505949736,0.000534040154889226,0.0011631044326350093,0.0014142845757305622,0.0023105917498469353,0.0013857298763468862,0.0008810216677375138
+Glad you enjoyed!  LET's GO!,,,,0.696,0.304,0.0,0.7835,[],[],[],[],[],0.004342660307884216,0.0005245840875431895,0.001145653543062508,0.0013534873723983765,0.0022258551325649023,0.0014107802417129278,0.0008417627541348338
+Beautiful blonds and MAGA.  Its what God wants for us all.,,,,0.4,0.6,0.0,0.7184,[],['MAGA'],[],[],[],0.008941820822656155,0.0005858472432009876,0.0012417921097949147,0.0007768009672872722,0.0036037275567650795,0.007117191795259714,0.0016293864464387298

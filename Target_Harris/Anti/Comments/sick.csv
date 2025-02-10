@@ -1,4 +1,4 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-This is so empowering!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Never give up!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-She's reportedly shattered.  Never worked so hard in her life,,,,0.0,0.617,0.383,-0.608,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+This is so empowering!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.00428139278665185,0.0005269193788990378,0.0011501958360895514,0.0012750850291922688,0.002255949890241027,0.0016121031949296594,0.0008438263321295381
+Never give up!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.007693390361964703,0.0006249296711757779,0.001305722282268107,0.0021727019920945168,0.003605423029512167,0.0007426199736073613,0.0007843108614906669
+She's reportedly shattered.  Never worked so hard in her life,,,,0.0,0.617,0.383,-0.608,[],[],[],[],[],0.004752905108034611,0.00046281199320219457,0.0010066081304103136,0.0009870331268757582,0.002464803634211421,0.0011022682301700115,0.0007612301269546151

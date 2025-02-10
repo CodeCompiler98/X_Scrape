@@ -1,10 +1,10 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Love it... it would be the most perfect world if this actually happened... he would spontaneously combust,,,,0.353,0.647,0.0,0.8479,[],[],[],[],[]
-*slut vs the felon*,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-“whore vs felon”,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Unfollowed . You disrespect creative people posting ai nonsense for clicks.,,,,0.188,0.455,0.357,-0.3818,[],[],[],[],[]
-Easy choice,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[]
-That cop supported a bail fund for rioters who burned down a police station. And destroyed a town. Then three of those bailed out went on to murder.,,,,0.071,0.683,0.245,-0.765,[],[],[],[],[]
-Ohhh please make this one blow up. He will be furious.,,,,0.153,0.6,0.247,-0.34,[],[],[],[],[]
-Lol you’re gonna cry when Trump wins,,,,0.478,0.294,0.228,0.5267,['Trump'],[],[],[],[]
-Fingers crossed!  ,,,,0.0,1.0,0.0,0.0,['Fingers'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Love it... it would be the most perfect world if this actually happened... he would spontaneously combust,,,,0.353,0.647,0.0,0.8479,[],[],[],[],[],0.04672100022435188,0.002802865346893668,0.003059344831854105,0.023506173864006996,0.01112944632768631,0.001770497765392065,0.006680771242827177
+*slut vs the felon*,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.798138439655304,0.08495010435581207,0.7638397216796875,0.003966888878494501,0.46540218591690063,0.03119136579334736,0.2104274183511734
+“whore vs felon”,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.8211832046508789,0.07622689008712769,0.7515029907226562,0.003320159623399377,0.5936310291290283,0.03322497010231018,0.17489176988601685
+Unfollowed . You disrespect creative people posting ai nonsense for clicks.,,,,0.188,0.455,0.357,-0.3818,[],[],[],[],[],0.34542474150657654,0.0069783758372068405,0.014073747210204601,0.0021845148876309395,0.3319558799266815,0.006394419819116592,0.0023335437290370464
+Easy choice,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[],0.00440398370847106,0.0005235650460235775,0.00113155588041991,0.0014113588258624077,0.0022931185085326433,0.0011625776533037424,0.0008659302839078009
+That cop supported a bail fund for rioters who burned down a police station. And destroyed a town. Then three of those bailed out went on to murder.,,,,0.071,0.683,0.245,-0.765,[],[],[],[],[],0.07333333045244217,0.003888434497639537,0.002289934316650033,0.05958448722958565,0.016530858352780342,0.004666526801884174,0.001862822799012065
+Ohhh please make this one blow up. He will be furious.,,,,0.153,0.6,0.247,-0.34,[],[],[],[],[],0.533988893032074,0.05090681463479996,0.00866604596376419,0.4953618347644806,0.06641364097595215,0.0053610047325491905,0.003233405062928796
+Lol you’re gonna cry when Trump wins,,,,0.478,0.294,0.228,0.5267,['Trump'],[],[],[],[],0.1328796148300171,0.0028621803503483534,0.003415449522435665,0.0069299438036978245,0.11405407637357712,0.006459280848503113,0.0013758995337411761
+Fingers crossed!  ,,,,0.0,1.0,0.0,0.0,['Fingers'],[],[],[],[],0.012167591601610184,0.0009525828645564616,0.001893271692097187,0.005333771463483572,0.0028378237038850784,0.0006165534141473472,0.0034932736307382584

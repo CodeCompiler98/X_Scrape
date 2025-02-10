@@ -1,6 +1,6 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Completed the mission last Tuesday.  It’s great to see so many smart gorgeous/sexy young MAGA  women out there. TRUMP 24 MAGA 2 the max. ,,,,0.252,0.748,0.0,0.7951,['max'],"['MAGA', 'TRUMP']",[],[],['last Tuesday']
-Get yo friends and family to do the same!,,,,0.298,0.702,0.0,0.5255,[],[],[],[],[]
-"Looking good, Janai!",,,,0.615,0.385,0.0,0.4926,['Janai'],[],[],[],[]
-Thanks babe ,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[]
-Did you complete the mission!?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Completed the mission last Tuesday.  It’s great to see so many smart gorgeous/sexy young MAGA  women out there. TRUMP 24 MAGA 2 the max. ,,,,0.252,0.748,0.0,0.7951,['max'],"['MAGA', 'TRUMP']",[],[],['last Tuesday'],0.005415931344032288,0.0004994336050003767,0.0011418501380831003,0.0008837474160827696,0.0026474257465451956,0.0016593049513176084,0.0018697136547416449
+Get yo friends and family to do the same!,,,,0.298,0.702,0.0,0.5255,[],[],[],[],[],0.006379195488989353,0.0005166841438040137,0.0012226757826283574,0.0016759855207055807,0.0032618294935673475,0.000764654076192528,0.000809363613370806
+"Looking good, Janai!",,,,0.615,0.385,0.0,0.4926,['Janai'],[],[],[],[],0.004376870114356279,0.0005336687318049371,0.0011788051342591643,0.0014968279283493757,0.0022628845181316137,0.0012204615632072091,0.0008466560393571854
+Thanks babe ,,,,0.744,0.256,0.0,0.4404,[],[],[],[],[],0.0045878649689257145,0.0005412776954472065,0.0013823655899614096,0.0013545912224799395,0.0022605527192354202,0.0011162019800394773,0.0013396887807175517
+Did you complete the mission!?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004384536296129227,0.000506922195199877,0.0010693342192098498,0.0013421663315966725,0.002315505174919963,0.0011797727784141898,0.0008084328728727996

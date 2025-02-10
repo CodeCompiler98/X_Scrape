@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-"Sorry, it was never great. Even when they tried it in the early church days. (Books of Acts)",,,,0.0,0.777,0.223,-0.5565,[],[],[],[],['the early church days']
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+"Sorry, it was never great. Even when they tried it in the early church days. (Books of Acts)",,,,0.0,0.777,0.223,-0.5565,[],[],[],[],['the early church days'],0.004357112571597099,0.00047866947716102004,0.0010753660462796688,0.001032055588439107,0.0023751796688884497,0.0016774677205830812,0.000733419437892735

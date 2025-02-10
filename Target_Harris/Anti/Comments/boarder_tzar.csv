@@ -1,5 +1,5 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-"Thank your ""border czar""!",,,,0.482,0.518,0.0,0.4199,[],[],[],[],[]
-I will repay socialist democrats in November,,,,0.0,1.0,0.0,0.0,[],[],[],['democrats'],['November']
-"We the people know that this a ""Lie""",,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-it ain't her.,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+"Thank your ""border czar""!",,,,0.482,0.518,0.0,0.4199,[],[],[],[],[],0.004337049555033445,0.00048369570868089795,0.0010332547826692462,0.001128766918554902,0.002409942215308547,0.0014028436271473765,0.0006755305803380907
+I will repay socialist democrats in November,,,,0.0,1.0,0.0,0.0,[],[],[],['democrats'],['November'],0.01176619902253151,0.0006974628777243197,0.0012333585182204843,0.004439673386514187,0.004198360722512007,0.005925757810473442,0.0008582354639656842
+"We the people know that this a ""Lie""",,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.03145808354020119,0.0009691853192634881,0.0013544720131903887,0.0016160736558958888,0.026057204231619835,0.001325382268987596,0.0009664453100413084
+it ain't her.,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.0045222449116408825,0.0004618761013261974,0.0009993574349209666,0.001006528502330184,0.0025695553049445152,0.0011579429265111685,0.0007143102120608091

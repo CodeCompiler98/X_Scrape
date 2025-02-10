@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-She can speak with her at McDonald’s next year,,,,0.0,1.0,0.0,0.0,[],['McDonald’s'],[],[],['next year']
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+She can speak with her at McDonald’s next year,,,,0.0,1.0,0.0,0.0,[],['McDonald’s'],[],[],['next year'],0.00422244518995285,0.0005200491286814213,0.001095991232432425,0.0013073518639430404,0.0023450637236237526,0.001649275654926896,0.0007623843266628683

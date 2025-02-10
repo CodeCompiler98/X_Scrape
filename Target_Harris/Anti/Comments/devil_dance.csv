@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Because shes fucking Evil..,,,,0.0,1.0,0.0,0.0,[],['Evil'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Because shes fucking Evil..,,,,0.0,1.0,0.0,0.0,[],['Evil'],[],[],[],0.9134923815727234,0.1058550700545311,0.8151732683181763,0.004807699006050825,0.8293801546096802,0.02353307418525219,0.09935687482357025

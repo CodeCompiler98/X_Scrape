@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-You 2 look great!,,,,0.687,0.313,0.0,0.6588,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+You 2 look great!,,,,0.687,0.313,0.0,0.6588,[],[],[],[],[],0.00430150143802166,0.0005069658509455621,0.0011109292972832918,0.0012847784673795104,0.0023166388273239136,0.0012397634563967586,0.0008763440418988466

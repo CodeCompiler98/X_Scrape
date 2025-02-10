@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-"Yeah but #kamalagropedme and thats true. Its was around 1993 and ive been left traumatised.  I think the victims should be heard, not ridiculed !",,#kamalagropedme,,0.244,0.532,0.223,-0.2208,[],[],[],[],['1993']
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+"Yeah but #kamalagropedme and thats true. Its was around 1993 and ive been left traumatised.  I think the victims should be heard, not ridiculed !",,#kamalagropedme,,0.244,0.532,0.223,-0.2208,[],[],[],[],['1993'],0.16032446920871735,0.005473154131323099,0.022379450500011444,0.009745883755385876,0.13227578997612,0.006183394696563482,0.006208798848092556

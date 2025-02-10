@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Trump voters support a larger degree of Bodily Autonomy than the demoncrats,,,,0.213,0.787,0.0,0.4019,['Bodily Autonomy'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Trump voters support a larger degree of Bodily Autonomy than the demoncrats,,,,0.213,0.787,0.0,0.4019,['Bodily Autonomy'],[],[],[],[],0.3500470221042633,0.008126738481223583,0.010362737812101841,0.0019805931951850653,0.2691989243030548,0.04892842099070549,0.08783714473247528

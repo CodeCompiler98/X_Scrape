@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-I wonder what her total alcohol tab was over the campaign,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+I wonder what her total alcohol tab was over the campaign,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.012526420876383781,0.0005811381852254272,0.0014916678192093968,0.0006907603237777948,0.007641888223588467,0.0016098760534077883,0.0007664552540518343

@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Wouldn’t put it past her  or them!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Wouldn’t put it past her  or them!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004797721281647682,0.0004787837096955627,0.0010780097218230367,0.0013573897304013371,0.0024684385862201452,0.0009702297393232584,0.0007067907718010247

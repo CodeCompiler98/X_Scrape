@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Shoutout to every X account that got out the message to get 5-10 people to go vote for Trump   It worked,,,,0.0,1.0,0.0,0.0,[],['Trump'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Shoutout to every X account that got out the message to get 5-10 people to go vote for Trump   It worked,,,,0.0,1.0,0.0,0.0,[],['Trump'],[],[],[],0.008614866994321346,0.0005204064073041081,0.0011659985175356269,0.001086592790670693,0.004920152015984058,0.0013101021759212017,0.0005671202088706195

@@ -1,5 +1,5 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-For Halloween everyone should wear the orange vest with a MAGA hat.,,,,0.0,1.0,0.0,0.0,[],['MAGA'],[],[],['Halloween']
-Haha,,,,1.0,0.0,0.0,0.4588,[],[],[],[],[]
-I follow back instantly ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Not a bad idea considering the guy’s history!,,,,0.344,0.656,0.0,0.484,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+For Halloween everyone should wear the orange vest with a MAGA hat.,,,,0.0,1.0,0.0,0.0,[],['MAGA'],[],[],['Halloween'],0.004640455823391676,0.0004609815077856183,0.0010119332000613213,0.0010686864843592048,0.002296584192663431,0.0014775419840589166,0.0007746879127807915
+Haha,,,,1.0,0.0,0.0,0.4588,[],[],[],[],[],0.004388295114040375,0.0004966441774740815,0.0010806729551404715,0.001292322645895183,0.0023822474759072065,0.0011298820609226823,0.0007847702945582569
+I follow back instantly ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004487066064029932,0.000574045698158443,0.001261671888642013,0.0017423416720703244,0.002181717660278082,0.0012829528423026204,0.0009458406711928546
+Not a bad idea considering the guy’s history!,,,,0.344,0.656,0.0,0.484,[],[],[],[],[],0.004312215838581324,0.00048211365356110036,0.0010406188666820526,0.0010914687300100923,0.0024117541033774614,0.0013821270549669862,0.000706194550730288

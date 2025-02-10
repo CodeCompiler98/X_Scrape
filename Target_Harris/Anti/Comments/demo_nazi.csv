@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Trump is gone  It’s up to Nick and the Groypers now,,,,0.0,1.0,0.0,0.0,['Groypers'],['Trump'],['Nick'],[],[]
-He’s Alive,,,,0.722,0.278,0.0,0.3818,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Trump is gone  It’s up to Nick and the Groypers now,,,,0.0,1.0,0.0,0.0,['Groypers'],['Trump'],['Nick'],[],[],0.038530513644218445,0.0009286038111895323,0.0014297249726951122,0.0008488293387927115,0.03023064322769642,0.00418793736025691,0.0009765559807419777
+He’s Alive,,,,0.722,0.278,0.0,0.3818,[],[],[],[],[],0.004320905543863773,0.0005207512876950204,0.0011531849158927798,0.0012951560784131289,0.0023896771017462015,0.001145514426752925,0.0008871190948411822

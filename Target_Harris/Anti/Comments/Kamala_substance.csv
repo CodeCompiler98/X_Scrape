@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Surprised? ,,,,1.0,0.0,0.0,0.2263,['Surprised'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Surprised? ,,,,1.0,0.0,0.0,0.2263,['Surprised'],[],[],[],[],0.004415507894009352,0.0004987031570635736,0.001074358937330544,0.0012722845422104,0.002383643761277199,0.0011390135623514652,0.000879176368471235

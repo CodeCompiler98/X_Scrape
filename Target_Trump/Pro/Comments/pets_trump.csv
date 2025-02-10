@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-We already know this you fvcking moron.,,,,0.0,0.652,0.348,-0.4939,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+We already know this you fvcking moron.,,,,0.0,0.652,0.348,-0.4939,[],[],[],[],[],0.911675214767456,0.09069468080997467,0.6085849404335022,0.005459779407829046,0.8967878222465515,0.018168414011597633,0.05148766562342644

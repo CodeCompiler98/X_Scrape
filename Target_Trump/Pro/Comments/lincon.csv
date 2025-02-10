@@ -1,5 +1,5 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-@SChimamoto #MAGA #MAHA IFBAP ,@SChimamoto,#MAGA #MAHA,,0.0,1.0,0.0,0.0,"['MAGA', 'MAHA IFBAP']",[],[],[],[]
-@SHTF_NH,@SHTF_NH,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-"@MaggieCollin3   IFBAP Skipping right ahead happily, for the win!",@MaggieCollin3,,,0.524,0.476,0.0,0.8268,[],['IFBAP Skipping'],[],[],[]
-@Chrisssmustang,@Chrisssmustang,,,0.0,1.0,0.0,0.0,[],['@Chrisssmustang'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+@SChimamoto #MAGA #MAHA IFBAP ,@SChimamoto,#MAGA #MAHA,,0.0,1.0,0.0,0.0,"['MAGA', 'MAHA IFBAP']",[],[],[],[],0.004630282986909151,0.0004681046702899039,0.0010242649586871266,0.0011690848041325808,0.00253540207631886,0.0009633017471060157,0.0007774463738314807
+@SHTF_NH,@SHTF_NH,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.5149266719818115,0.030242692679166794,0.5312162041664124,0.0033968642819672823,0.14733368158340454,0.0056089297868311405,0.009234735742211342
+"@MaggieCollin3   IFBAP Skipping right ahead happily, for the win!",@MaggieCollin3,,,0.524,0.476,0.0,0.8268,[],['IFBAP Skipping'],[],[],[],0.0050895726308226585,0.00047628176980651915,0.001095748390071094,0.0012299282243475318,0.0026910309679806232,0.0007647433085367084,0.0008372822194360197
+@Chrisssmustang,@Chrisssmustang,,,0.0,1.0,0.0,0.0,[],['@Chrisssmustang'],[],[],[],0.004970051813870668,0.00044235840323381126,0.001146087422966957,0.0009149819379672408,0.0025459842290729284,0.0010639338288456202,0.0007220666739158332

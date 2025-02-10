@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-very nice how much,,,,0.508,0.492,0.0,0.4754,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+very nice how much,,,,0.508,0.492,0.0,0.4754,[],[],[],[],[],0.004239127039909363,0.000519725086633116,0.0011394836474210024,0.0012828282779082656,0.002290840959176421,0.0014441409148275852,0.0008928946335799992

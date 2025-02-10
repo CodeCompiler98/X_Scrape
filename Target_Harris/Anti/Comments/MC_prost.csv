@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-I knew it! I knew she really worked at McDonalds.,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-LOL!!,,,,1.0,0.0,0.0,0.5242,[],['LOL'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+I knew it! I knew she really worked at McDonalds.,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004268607124686241,0.0004944528918713331,0.001083554234355688,0.0011160020949319005,0.002414664253592491,0.001364873955026269,0.0007234124350361526
+LOL!!,,,,1.0,0.0,0.0,0.5242,[],['LOL'],[],[],[],0.05210292339324951,0.0017737115267664194,0.004377599339932203,0.0035086460411548615,0.045114386826753616,0.0027524083852767944,0.003372042439877987

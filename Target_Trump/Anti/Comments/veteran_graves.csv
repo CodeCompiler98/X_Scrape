@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-I would not be surprised if he did this before he left. #TrumpIsUnfitForOffice,,#TrumpIsUnfitForOffice,,0.0,0.868,0.132,-0.1695,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+I would not be surprised if he did this before he left. #TrumpIsUnfitForOffice,,#TrumpIsUnfitForOffice,,0.0,0.868,0.132,-0.1695,[],[],[],[],[],0.019374685361981392,0.0007670968770980835,0.0012106576468795538,0.001246922998689115,0.014279450289905071,0.0012672969605773687,0.0006798143731430173

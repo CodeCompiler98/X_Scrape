@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-https://x.com/waltthestalt/status/1852720464298127627…,,,https://x.com/waltthestalt/status/1852720464298127627…,0.0,1.0,0.0,0.0,[],[],[],[],[]
-This you?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+https://x.com/waltthestalt/status/1852720464298127627…,,,https://x.com/waltthestalt/status/1852720464298127627…,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004693366587162018,0.000488869845867157,0.0011372723383828998,0.0010922966757789254,0.002383714308962226,0.001087030628696084,0.0007808525115251541
+This you?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004259791690856218,0.00048819975927472115,0.0010645842412486672,0.0011778135085478425,0.002466782694682479,0.0012327959993854165,0.0007902096840552986

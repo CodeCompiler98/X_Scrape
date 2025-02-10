@@ -1,5 +1,5 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-"Follow me for a follow back! @jshannon1234   Our country is being invaded by unvetted illegal migrants! That is reason enough for me to vote #Trump!  This is not safe for my family as there have already been murders, rape & rampant crime against American citizens!  This should be",@jshannon1234,#Trump,,0.0,0.679,0.321,-0.9656,['Trump'],['rape & rampant'],[],['American'],[]
-@CKirich  ,@CKirich,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-@SHTF_NH,@SHTF_NH,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-I follow back all Patriots.,,,,0.0,1.0,0.0,0.0,[],['Patriots'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+"Follow me for a follow back! @jshannon1234   Our country is being invaded by unvetted illegal migrants! That is reason enough for me to vote #Trump!  This is not safe for my family as there have already been murders, rape & rampant crime against American citizens!  This should be",@jshannon1234,#Trump,,0.0,0.679,0.321,-0.9656,['Trump'],['rape & rampant'],[],['American'],[],0.5320541262626648,0.046035923063755035,0.03667134791612625,0.11921881884336472,0.27187323570251465,0.32609468698501587,0.2778145968914032
+@CKirich  ,@CKirich,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.008996828459203243,0.000591714633628726,0.0031666080467402935,0.001069560763426125,0.004577148240059614,0.000561571039725095,0.0016989180585369468
+@SHTF_NH,@SHTF_NH,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.5149266719818115,0.030242692679166794,0.5312162041664124,0.0033968642819672823,0.14733368158340454,0.0056089297868311405,0.009234735742211342
+I follow back all Patriots.,,,,0.0,1.0,0.0,0.0,[],['Patriots'],[],[],[],0.016895189881324768,0.0008939441759139299,0.0010910959681496024,0.0033161225728690624,0.007227571681141853,0.006854022853076458,0.00060390739236027

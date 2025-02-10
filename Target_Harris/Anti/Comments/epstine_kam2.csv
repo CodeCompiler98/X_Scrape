@@ -1,7 +1,7 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-He liked them younger.,,,,0.483,0.517,0.0,0.4215,[],[],[],[],[]
-"Yes, but let's not forget the recruiter, Ghislaine Maxwell..",,,,0.355,0.645,0.0,0.4308,['Ghislaine Maxwell'],[],[],[],[]
-I’m going with photo shop. But it would not surprise me,,,,0.0,0.818,0.182,-0.3007,[],[],[],[],[]
-That is very badly shopped.,,,,0.0,0.541,0.459,-0.5256,[],[],[],[],[]
-photo shopped,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Disgusting,,,,0.0,0.0,1.0,-0.5267,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+He liked them younger.,,,,0.483,0.517,0.0,0.4215,[],[],[],[],[],0.005549953784793615,0.00043166070827282965,0.000911777198780328,0.0008648071670904756,0.002775771077722311,0.001033287262544036,0.00098704406991601
+"Yes, but let's not forget the recruiter, Ghislaine Maxwell..",,,,0.355,0.645,0.0,0.4308,['Ghislaine Maxwell'],[],[],[],[],0.0044932253658771515,0.00048004070413298905,0.0009617863688617945,0.001094667473807931,0.0026280293241143227,0.0011208592914044857,0.0006427568150684237
+I’m going with photo shop. But it would not surprise me,,,,0.0,0.818,0.182,-0.3007,[],[],[],[],[],0.004310967400670052,0.0005367887788452208,0.0011615355033427477,0.0013524360256269574,0.0022654621861875057,0.0013752944068983197,0.0008382097585126758
+That is very badly shopped.,,,,0.0,0.541,0.459,-0.5256,[],[],[],[],[],0.004710799548774958,0.0004889984265901148,0.0010506625985726714,0.0010950191644951701,0.0025559512432664633,0.0009438444976694882,0.0008136208634823561
+photo shopped,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004357654135674238,0.0005195271805860102,0.0011088374303653836,0.0013124269898980856,0.0023352871648967266,0.0011923550628125668,0.0008712075068615377
+Disgusting,,,,0.0,0.0,1.0,-0.5267,[],[],[],[],[],0.6129980683326721,0.01179586537182331,0.033221885561943054,0.0029146592132747173,0.5765384435653687,0.004758626688271761,0.0021951685193926096

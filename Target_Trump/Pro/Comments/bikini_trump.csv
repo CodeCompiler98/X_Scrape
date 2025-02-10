@@ -1,4 +1,4 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-#Trump,,#Trump,,0.0,1.0,0.0,0.0,['Trump'],[],[],[],[]
-Not AI LoL  What's Wrong with her Hand Here!!,,,,0.21,0.394,0.395,-0.4245,[],[],[],[],[]
-Witch Fingers It's AI ,,,,0.0,0.545,0.455,-0.3612,['Witch Fingers'],[],['AI'],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+#Trump,,#Trump,,0.0,1.0,0.0,0.0,['Trump'],[],[],[],[],0.03635478764772415,0.0010795476846396923,0.002326572546735406,0.0009032561210915446,0.03090118244290352,0.0018276507034897804,0.001090928795747459
+Not AI LoL  What's Wrong with her Hand Here!!,,,,0.21,0.394,0.395,-0.4245,[],[],[],[],[],0.018846100196242332,0.0007978258654475212,0.0014517182717099786,0.0018145666690543294,0.014057988300919533,0.0015769002493470907,0.0009844276355579495
+Witch Fingers It's AI ,,,,0.0,0.545,0.455,-0.3612,['Witch Fingers'],[],['AI'],[],[],0.45075246691703796,0.01659165322780609,0.06289955228567123,0.006912304554134607,0.43399205803871155,0.019621936604380608,0.015154820866882801

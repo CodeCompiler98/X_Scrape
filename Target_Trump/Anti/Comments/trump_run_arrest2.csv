@@ -1,9 +1,9 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Rooters is a drag bar in florida but I think the dude who runs it moonlights as a journalist,,,,0.0,0.912,0.088,-0.1154,[],[],['florida'],[],[]
-That's fake ,,,,0.0,0.244,0.756,-0.4767,[],[],[],[],[]
-AMAZING footage of TFG running!  I would pay money to see that any day.!  Whose body was his head PhotoShopped onto?,,,,0.209,0.734,0.057,0.6924,['PhotoShopped'],[],[],[],[]
-mine ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-"You know how I know these are fake? He’s running in one of them!   Well, that and Rooters ",,,,0.102,0.732,0.166,-0.3164,[],[],[],[],[]
-It's not a different tie it's two different rolls of film there's 48 pictures in total but thanks to all the armchair sleuths for spotting it,,,,0.138,0.862,0.0,0.5927,[],[],[],[],[]
-Some are trying to say this is a scene from the PieTrix,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Did he have the time to change his Tie! What rubbish.,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Rooters is a drag bar in florida but I think the dude who runs it moonlights as a journalist,,,,0.0,0.912,0.088,-0.1154,[],[],['florida'],[],[],0.01541625615209341,0.0006357968668453395,0.001049919635988772,0.0005085309967398643,0.011361028999090195,0.003040606388822198,0.0005428026197478175
+That's fake ,,,,0.0,0.244,0.756,-0.4767,[],[],[],[],[],0.08507490158081055,0.001778663252480328,0.0031567735131829977,0.0015139463357627392,0.07980354875326157,0.0012987395748496056,0.001317394431680441
+AMAZING footage of TFG running!  I would pay money to see that any day.!  Whose body was his head PhotoShopped onto?,,,,0.209,0.734,0.057,0.6924,['PhotoShopped'],[],[],[],[],0.00795089639723301,0.0005625135963782668,0.0010650834301486611,0.0016741242725402117,0.0036935019306838512,0.0006928690709173679,0.0011078363750129938
+mine ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004554068204015493,0.0005492296768352389,0.001260482706129551,0.0014830810250714421,0.0022746766917407513,0.0011039095697924495,0.0009697834029793739
+"You know how I know these are fake? He’s running in one of them!   Well, that and Rooters ",,,,0.102,0.732,0.166,-0.3164,[],[],[],[],[],0.05311743542551994,0.0013597124489024282,0.0019490652484819293,0.0019993113819509745,0.049569450318813324,0.0018828148022294044,0.0011471797479316592
+It's not a different tie it's two different rolls of film there's 48 pictures in total but thanks to all the armchair sleuths for spotting it,,,,0.138,0.862,0.0,0.5927,[],[],[],[],[],0.010323143564164639,0.00044796193833462894,0.0008706962689757347,0.0007441923371516168,0.007509379647672176,0.0011568623594939709,0.0007344818441197276
+Some are trying to say this is a scene from the PieTrix,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.02100430242717266,0.0007660770206712186,0.0021334714256227016,0.0008887803996913135,0.01542660966515541,0.0019027458038181067,0.003412401070818305
+Did he have the time to change his Tie! What rubbish.,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.6469798684120178,0.011704768985509872,0.05069030076265335,0.003115842118859291,0.6073562502861023,0.003936306107789278,0.00392163498327136

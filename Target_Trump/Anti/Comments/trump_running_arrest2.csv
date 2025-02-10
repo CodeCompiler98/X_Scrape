@@ -1,9 +1,9 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Are u serious?,,,,0.0,0.435,0.565,-0.0772,[],[],[],[],[]
-yeah,,,,1.0,0.0,0.0,0.296,[],[],[],[],[]
-Don't oversleep ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Yo Trump fit as hell,,,,0.248,0.297,0.455,-0.4767,['Yo Trump'],[],[],[],[]
-Careful. I believe  @rudyhavenstein  got banned for these types of jokes,@rudyhavenstein,,,0.265,0.515,0.221,-0.1027,['@rudyhavenstein'],[],[],[],[]
-"His hair doesn’t move when he runs, impressive…",,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-The progress of AI is worrisome.,,,,0.295,0.421,0.284,0.0258,[],[],['AI'],[],[]
-"COMMON MAN. dont do this.  not everybody reads your BIO & understands that you do satire!  twitter users have 100s of accounts they follow they JUST see your NAME & PIC!  its not less funny if you give people a LITTLE HINT: its a joke you can just add at the end a little "";-)""",,,,0.06,0.899,0.041,0.2478,['100s'],"['BIO &', 'NAME & PIC']",[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Are u serious?,,,,0.0,0.435,0.565,-0.0772,[],[],[],[],[],0.007128316909074783,0.0005452836630865932,0.0013751647202298045,0.0016573312459513545,0.002839447231963277,0.0005853354232385755,0.0011603985913097858
+yeah,,,,1.0,0.0,0.0,0.296,[],[],[],[],[],0.004273762460798025,0.000529848039150238,0.0011530575575307012,0.0013790999073535204,0.002332181902602315,0.0012908874778077006,0.0009065648191608489
+Don't oversleep ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.005300021730363369,0.0005253907875157893,0.0011400507064536214,0.0015641296049579978,0.0023804204538464546,0.0008668031659908593,0.0007877805037423968
+Yo Trump fit as hell,,,,0.248,0.297,0.455,-0.4767,['Yo Trump'],[],[],[],[],0.6242632865905762,0.027244506403803825,0.21877969801425934,0.010297846980392933,0.514113187789917,0.0157705657184124,0.002318889368325472
+Careful. I believe  @rudyhavenstein  got banned for these types of jokes,@rudyhavenstein,,,0.265,0.515,0.221,-0.1027,['@rudyhavenstein'],[],[],[],[],0.00991060957312584,0.0004739448777399957,0.00100960663985461,0.0009032738162204623,0.0066709681414067745,0.0007739596767351031,0.0007497142069041729
+"His hair doesn’t move when he runs, impressive…",,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.007398131303489208,0.0004724235041067004,0.0007272612419910729,0.0007681389106437564,0.004590737633407116,0.0010578421643003821,0.0005122815491631627
+The progress of AI is worrisome.,,,,0.295,0.421,0.284,0.0258,[],[],['AI'],[],[],0.11601811647415161,0.0021888369228690863,0.0020209115464240313,0.001387518597766757,0.10770216584205627,0.004053184762597084,0.000642910017631948
+"COMMON MAN. dont do this.  not everybody reads your BIO & understands that you do satire!  twitter users have 100s of accounts they follow they JUST see your NAME & PIC!  its not less funny if you give people a LITTLE HINT: its a joke you can just add at the end a little "";-)""",,,,0.06,0.899,0.041,0.2478,['100s'],"['BIO &', 'NAME & PIC']",[],[],[],0.00962004903703928,0.00045168507494963706,0.0009751098114065826,0.0005945558659732342,0.007295788265764713,0.0008155941031873226,0.00047205836744979024

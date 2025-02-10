@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Yes I’m sure she worships the devil all democrats do Trump 2024,,,,0.374,0.404,0.222,0.25,[],['Trump 2024'],[],['democrats'],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Yes I’m sure she worships the devil all democrats do Trump 2024,,,,0.374,0.404,0.222,0.25,[],['Trump 2024'],[],['democrats'],[],0.49021968245506287,0.022549843415617943,0.13306674361228943,0.006476620677858591,0.3982063829898834,0.1413062959909439,0.004538327921181917

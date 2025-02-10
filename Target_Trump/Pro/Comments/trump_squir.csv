@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Peanut Vengeance,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Peanut Vengeance,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.08312846720218658,0.004176114220172167,0.011576075106859207,0.04218759015202522,0.020565548911690712,0.0011594417737796903,0.0018728852737694979

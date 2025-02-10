@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Hopefully! Insh'Allah!,,,,0.767,0.233,0.0,0.508,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Hopefully! Insh'Allah!,,,,0.767,0.233,0.0,0.508,[],[],[],[],[],0.005097837187349796,0.0005466913571581244,0.0010721534490585327,0.0017935605719685555,0.002144203055649996,0.0018335467902943492,0.0006629737908951938

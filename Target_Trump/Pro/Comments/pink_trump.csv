@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-We voted a straight Republican ticket  in Pennsylvania today!,,,,0.238,0.762,0.0,0.2942,[],[],['Pennsylvania'],['Republican'],['today']
-There we go! Absolutely excellent ,,,,0.517,0.483,0.0,0.6468,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+We voted a straight Republican ticket  in Pennsylvania today!,,,,0.238,0.762,0.0,0.2942,[],[],['Pennsylvania'],['Republican'],['today'],0.004330930765718222,0.0005153946112841368,0.0011092859786003828,0.0012587197124958038,0.0022720007691532373,0.001647324999794364,0.0007713648956269026
+There we go! Absolutely excellent ,,,,0.517,0.483,0.0,0.6468,[],[],[],[],[],0.0042460826225578785,0.0005431112949736416,0.0011665039928629994,0.0014401013031601906,0.0022732315119355917,0.0014903871342539787,0.0008276622393168509

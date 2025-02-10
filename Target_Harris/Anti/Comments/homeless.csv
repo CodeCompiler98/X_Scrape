@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Biting my lip…,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-LOL!! I'm not!!,,,,0.702,0.298,0.0,0.6909,[],['LOL'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Biting my lip…,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.07263090461492538,0.0027435238007456064,0.005719113163650036,0.009773150086402893,0.011335738934576511,0.0011569197522476315,0.02980039082467556
+LOL!! I'm not!!,,,,0.702,0.298,0.0,0.6909,[],['LOL'],[],[],[],0.015732118859887123,0.0008456949726678431,0.002459171926602721,0.001833450747653842,0.011081510223448277,0.0013177904766052961,0.0015311386669054627

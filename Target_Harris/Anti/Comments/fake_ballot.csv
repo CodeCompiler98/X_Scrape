@@ -1,6 +1,6 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Thats all they have is cheating ,,,,0.0,0.581,0.419,-0.5574,[],[],[],[],[]
-Yep!  They are desperate,,,,0.324,0.294,0.382,-0.1007,[],[],[],[],[]
-Absolutely   the California Communist HO has to go......,,,,0.0,1.0,0.0,0.0,[],['the California Communist HO'],[],[],[]
-#notothehoe I like that ,,#notothehoe,,0.556,0.444,0.0,0.3612,[],[],[],[],[]
-True,,,,1.0,0.0,0.0,0.4215,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Thats all they have is cheating ,,,,0.0,0.581,0.419,-0.5574,[],[],[],[],[],0.284554660320282,0.00419772882014513,0.004835101775825024,0.0020314771682024,0.27025631070137024,0.002853227313607931,0.002311685821041465
+Yep!  They are desperate,,,,0.324,0.294,0.382,-0.1007,[],[],[],[],[],0.0052656009793281555,0.0005431288736872375,0.0011844852706417441,0.001925241551361978,0.0023094795178622007,0.0009976370492950082,0.0007699094130657613
+Absolutely   the California Communist HO has to go......,,,,0.0,1.0,0.0,0.0,[],['the California Communist HO'],[],[],[],0.14656193554401398,0.007340734358876944,0.004581695422530174,0.018544858321547508,0.057073622941970825,0.10833865404129028,0.0012028384953737259
+#notothehoe I like that ,,#notothehoe,,0.556,0.444,0.0,0.3612,[],[],[],[],[],0.004652095027267933,0.00046442373422905803,0.001117959269322455,0.0011511166812852025,0.0025312774814665318,0.0009549559908919036,0.0007444189977832139
+True,,,,1.0,0.0,0.0,0.4215,[],[],[],[],[],0.004274097271263599,0.0005074198707006872,0.0011330076958984137,0.001310122781433165,0.002370729809626937,0.0012029805220663548,0.0008931319462135434

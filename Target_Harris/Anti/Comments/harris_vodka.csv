@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-As usual!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+As usual!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004396492149680853,0.0005024030688218772,0.0011520677944645286,0.001299243071116507,0.002305821515619755,0.001139321830123663,0.0009384463191963732

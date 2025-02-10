@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-@MrJOHNWICK2  Love her dedication and grace! ,@MrJOHNWICK2,,,0.646,0.354,0.0,0.807,[],[],[],[],[]
-#time #for #truth #darktolight #ncswic #ingodwetrust,,#time #for #truth #darktolight #ncswic #ingodwetrust,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+@MrJOHNWICK2  Love her dedication and grace! ,@MrJOHNWICK2,,,0.646,0.354,0.0,0.807,[],[],[],[],[],0.00431456696242094,0.0005074280197732151,0.0010797816794365644,0.0012115130666643381,0.002383335493505001,0.00124621600843966,0.0007502746884711087
+#time #for #truth #darktolight #ncswic #ingodwetrust,,#time #for #truth #darktolight #ncswic #ingodwetrust,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.0046067917719483376,0.0004525642725639045,0.0010184975108131766,0.0010044837836176157,0.0026368305552750826,0.0009954817360267043,0.0007009645341895521

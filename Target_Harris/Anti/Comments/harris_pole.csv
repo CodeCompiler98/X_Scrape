@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Not those  poles lol,,,,0.0,0.563,0.437,-0.3252,[],[],[],[],[]
-If I ever post the meme I made from my images OMG!,,,,0.0,1.0,0.0,0.0,[],['OMG'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Not those  poles lol,,,,0.0,0.563,0.437,-0.3252,[],[],[],[],[],0.10236936062574387,0.003460551146417856,0.004013757687062025,0.0032265118788927794,0.04702123627066612,0.07745569199323654,0.003746653674170375
+If I ever post the meme I made from my images OMG!,,,,0.0,1.0,0.0,0.0,[],['OMG'],[],[],[],0.0063221994787454605,0.0004602519329637289,0.001232042326591909,0.000799002475105226,0.0033755965996533632,0.0030013336800038815,0.0006322730332612991

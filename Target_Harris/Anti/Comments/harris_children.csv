@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Fluoride and Alcohol and Sugar are banned under project 2025,,,,0.0,0.75,0.25,-0.4588,[],['Fluoride and Alcohol and Sugar'],[],[],['2025']
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Fluoride and Alcohol and Sugar are banned under project 2025,,,,0.0,0.75,0.25,-0.4588,[],['Fluoride and Alcohol and Sugar'],[],[],['2025'],0.0045760939829051495,0.0005103121511638165,0.0011444537667557597,0.0013030382106080651,0.0022420380264520645,0.0011732112616300583,0.0008320299093611538

@@ -1,6 +1,6 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-"TO VOTERS IN CAMBRIA COUNTY, PA:  We understand that there are some line delays on the ground. We need you to stay in line. We need you to fill out your ballot in full and deliver it. Our Pennsylvania lawyers are all over this issue and will ensure fairness and accuracy in the",,,,0.048,0.952,0.0,0.3818,[],[],"['CAMBRIA COUNTY', 'Pennsylvania']",[],[]
-HOLD THE LINE!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Can I just hold that Ai photo instead?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-You should see her sister.. LOL!,,,,0.433,0.567,0.0,0.5893,[],['LOL'],[],[],[]
-Don Jr. did all the lines. Sorry.,,,,0.0,0.822,0.178,-0.0772,['Don Jr.'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+"TO VOTERS IN CAMBRIA COUNTY, PA:  We understand that there are some line delays on the ground. We need you to stay in line. We need you to fill out your ballot in full and deliver it. Our Pennsylvania lawyers are all over this issue and will ensure fairness and accuracy in the",,,,0.048,0.952,0.0,0.3818,[],[],"['CAMBRIA COUNTY', 'Pennsylvania']",[],[],0.004308470990508795,0.0005164332687854767,0.001111139776185155,0.001266369130462408,0.0022990358993411064,0.001401372137479484,0.0007638344541192055
+HOLD THE LINE!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004583150614053011,0.0005263503990136087,0.0011383465025573969,0.001512138289399445,0.0022935299202799797,0.0010241507552564144,0.0008166299667209387
+Can I just hold that Ai photo instead?,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004292638041079044,0.000527326890733093,0.0010907136602327228,0.001254384871572256,0.002355327131226659,0.001456304918974638,0.0007586574065499008
+You should see her sister.. LOL!,,,,0.433,0.567,0.0,0.5893,[],['LOL'],[],[],[],0.018551168963313103,0.0008491085027344525,0.0016880141338333488,0.002290713367983699,0.01378654409199953,0.002883410546928644,0.00163988396525383
+Don Jr. did all the lines. Sorry.,,,,0.0,0.822,0.178,-0.0772,['Don Jr.'],[],[],[],[],0.004273248836398125,0.00048800845979712903,0.0010766119230538607,0.00112904014531523,0.0023950873874127865,0.0013487705728039145,0.0007593813934363425

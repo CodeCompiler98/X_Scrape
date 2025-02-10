@@ -1,5 +1,5 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Hmmm seems a bit ambiguous to me ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-"ok, I will be more clear in the next one :p",,,,0.517,0.483,0.0,0.7574,[],[],[],[],[]
-Perfectly clear. Thank you!,,,,0.906,0.094,0.0,0.8622,[],[],[],[],[]
-Awesome and pretty,,,,0.88,0.12,0.0,0.8074,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Hmmm seems a bit ambiguous to me ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.004249267280101776,0.0004941534716635942,0.001126489252783358,0.0012063132598996162,0.002349724993109703,0.0012733394978567958,0.0008195790578611195
+"ok, I will be more clear in the next one :p",,,,0.517,0.483,0.0,0.7574,[],[],[],[],[],0.004351356998085976,0.0005385292461141944,0.0011752346763387322,0.0014701874461025,0.0022735840175300837,0.0012576357694342732,0.0008061171392910182
+Perfectly clear. Thank you!,,,,0.906,0.094,0.0,0.8622,[],[],[],[],[],0.00423702597618103,0.0005379474023357034,0.0011784801026806235,0.0013888691319152713,0.002274168189615011,0.0015970940003171563,0.0008611007942818105
+Awesome and pretty,,,,0.88,0.12,0.0,0.8074,[],[],[],[],[],0.004253031685948372,0.0005111424252390862,0.0011298066237941384,0.0012195464223623276,0.0023537445813417435,0.0013781775487586856,0.0008262075716629624

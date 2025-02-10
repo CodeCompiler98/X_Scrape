@@ -1,6 +1,6 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Looooollll,,,,0.0,1.0,0.0,0.0,[],[],['Looooollll'],[],[]
-You forgot one of the very best that says it all. You're welcome.,,,,0.405,0.595,0.0,0.8173,[],[],[],[],[]
-She looks hungry. How bout this,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-That's more precise!!! Perfect! Thanks ,,,,0.735,0.265,0.0,0.8523,[],[],[],[],[]
-Right just straight destruction of liberty and peace. Bltch is going to cause a civil war if she doesn’t win,,,,0.38,0.392,0.229,0.6124,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Looooollll,,,,0.0,1.0,0.0,0.0,[],[],['Looooollll'],[],[],0.0051607610657811165,0.0004582851834129542,0.0010436857119202614,0.001073865219950676,0.00299372267909348,0.0007598124793730676,0.0007020442862994969
+You forgot one of the very best that says it all. You're welcome.,,,,0.405,0.595,0.0,0.8173,[],[],[],[],[],0.00434522982686758,0.0004941588267683983,0.001097717322409153,0.0012091887183487415,0.002409512409940362,0.001120452070608735,0.0008158256532624364
+She looks hungry. How bout this,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.006367943715304136,0.0005329834530130029,0.0013874024152755737,0.0012802223209291697,0.0024064071476459503,0.0008120663114823401,0.0018496316624805331
+That's more precise!!! Perfect! Thanks ,,,,0.735,0.265,0.0,0.8523,[],[],[],[],[],0.004194377455860376,0.0005271891714073718,0.001164172892458737,0.0013234118232503533,0.0023088480811566114,0.0015020130667835474,0.0008974351803772151
+Right just straight destruction of liberty and peace. Bltch is going to cause a civil war if she doesn’t win,,,,0.38,0.392,0.229,0.6124,[],[],[],[],[],0.07260984182357788,0.004365651402622461,0.0019271069904789329,0.06185903772711754,0.01223926804959774,0.0037871694657951593,0.0010053516598418355

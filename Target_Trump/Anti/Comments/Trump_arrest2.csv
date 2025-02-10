@@ -1,6 +1,6 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-On dirait un vieux Matrix ,,,,0.0,1.0,0.0,0.0,[],['un'],[],[],[]
-N'importe quoi !!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-"Ça suppose qu'il soit capable de courir.... toussote ""bone spurs""",,,,0.224,0.776,0.0,0.3818,[],"[""qu'il""]",[],[],[]
-"""Cé la fote o vaxun""",,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-Comment pouvait il espérer s'échapper avec ses jambes cassées ? ,,,,0.0,1.0,0.0,0.0,"[""il espérer s'échapper avec""]",[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+On dirait un vieux Matrix ,,,,0.0,1.0,0.0,0.0,[],['un'],[],[],[],0.004632001742720604,0.00048900640103966,0.0010591440368443727,0.001090695266611874,0.002576163038611412,0.0009838950354605913,0.0007298593991436064
+N'importe quoi !!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.0051793125458061695,0.00045920914271846414,0.0012613623403012753,0.0009752727928571403,0.0027435526717454195,0.0009785789297893643,0.0007145736017264426
+"Ça suppose qu'il soit capable de courir.... toussote ""bone spurs""",,,,0.224,0.776,0.0,0.3818,[],"[""qu'il""]",[],[],[],0.007749381475150585,0.0005464621353894472,0.0014982189750298858,0.0011954420479014516,0.003982141148298979,0.0008636736893095076,0.002507624914869666
+"""Cé la fote o vaxun""",,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.015437092632055283,0.0008177707204595208,0.003021769691258669,0.0013817878207191825,0.00916958786547184,0.0034039171878248453,0.0016846355283632874
+Comment pouvait il espérer s'échapper avec ses jambes cassées ? ,,,,0.0,1.0,0.0,0.0,"[""il espérer s'échapper avec""]",[],[],[],[],0.007414013147354126,0.000490303267724812,0.0009372798376716673,0.0008958016987890005,0.004645368084311485,0.0018287071725353599,0.0005200711311772466

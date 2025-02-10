@@ -1,4 +1,4 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-That's the best one so far,,,,0.457,0.543,0.0,0.6369,[],[],[],[],[]
-"Vox Populi, Vox Dei   𝕏",,,,0.0,1.0,0.0,0.0,['Vox Dei'],['Vox Populi'],[],[],[]
-Make America Great Again,,,,0.577,0.423,0.0,0.6249,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+That's the best one so far,,,,0.457,0.543,0.0,0.6369,[],[],[],[],[],0.00425771763548255,0.0005365859833545983,0.0011668941006064415,0.0014117351965978742,0.002259574132040143,0.001485880697146058,0.0008502982091158628
+"Vox Populi, Vox Dei   𝕏",,,,0.0,1.0,0.0,0.0,['Vox Dei'],['Vox Populi'],[],[],[],0.012667763978242874,0.0005812669405713677,0.0011401479132473469,0.0008227848447859287,0.007970428094267845,0.0017299848841503263,0.0009494455298408866
+Make America Great Again,,,,0.577,0.423,0.0,0.6249,[],[],[],[],[],0.00502516096457839,0.000517678156029433,0.0011335074668750167,0.0013888162793591619,0.0022023827768862247,0.0010153967887163162,0.0009569182293489575

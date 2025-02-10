@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-#TrumpDishonorsUS #TrumpIsUnfitForOffice   Let's bury the guy with our votes this November.,,#TrumpDishonorsUS #TrumpIsUnfitForOffice,,0.0,1.0,0.0,0.0,[],[],[],[],['this November']
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+#TrumpDishonorsUS #TrumpIsUnfitForOffice   Let's bury the guy with our votes this November.,,#TrumpDishonorsUS #TrumpIsUnfitForOffice,,0.0,1.0,0.0,0.0,[],[],[],[],['this November'],0.48988136649131775,0.04081221669912338,0.01594327576458454,0.3210642635822296,0.21364130079746246,0.026925483718514442,0.006720759905874729

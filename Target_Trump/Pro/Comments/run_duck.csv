@@ -1,3 +1,3 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-We protect our pets.,,,,0.464,0.536,0.0,0.3818,[],[],[],[],[]
-Protect the truth from this liar!!,,,,0.465,0.255,0.28,0.2924,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+We protect our pets.,,,,0.464,0.536,0.0,0.3818,[],[],[],[],[],0.004377123899757862,0.0005033075576648116,0.001054402207955718,0.0013012884883210063,0.0023530852049589157,0.0012272191233932972,0.0007684975862503052
+Protect the truth from this liar!!,,,,0.465,0.255,0.28,0.2924,[],[],[],[],[],0.6465080380439758,0.011136402375996113,0.007440229877829552,0.006025554612278938,0.6482043862342834,0.003979624714702368,0.0011405417462810874

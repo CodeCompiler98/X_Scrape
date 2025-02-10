@@ -1,8 +1,8 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-TrumpTrain Hot  MAGA  GARBAGE ,,,,0.0,1.0,0.0,0.0,[],['GARBAGE'],[],[],[]
-I’m garbage baby ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
-"I think Trump has a cabinet position for you Can I be on your staff, gorgeous?",,,,0.25,0.75,0.0,0.6124,['Trump'],[],[],[],[]
-"Wouldn’t that be amazing  and of course baby, you’re my #1!",,#1,,0.29,0.71,0.0,0.6239,[],[],[],[],[]
-Great picture,,,,0.804,0.196,0.0,0.6249,[],[],[],[],[]
-"3 days left! Everything is at stake! Get out and FIGHT, FIGHT, FIGHT and VOTE, VOTE, VOTE!!  #Trump2024  #TrumpToSaveAmerica ",,#Trump2024 #TrumpToSaveAmerica,,0.0,0.573,0.427,-0.9035,[],"['FIGHT', 'VOTE', 'VOTE', 'VOTE']",[],[],['3 days']
-Do not look down Donald. Do not do it,,,,0.0,1.0,0.0,0.0,['Donald'],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+TrumpTrain Hot  MAGA  GARBAGE ,,,,0.0,1.0,0.0,0.0,[],['GARBAGE'],[],[],[],0.7430790662765503,0.032049063593149185,0.12222316861152649,0.0046502272598445415,0.7169344425201416,0.041260749101638794,0.03745707869529724
+I’m garbage baby ,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.6079784631729126,0.012210393324494362,0.06020583584904671,0.003667412791401148,0.5493803024291992,0.00906812772154808,0.004457528702914715
+"I think Trump has a cabinet position for you Can I be on your staff, gorgeous?",,,,0.25,0.75,0.0,0.6124,['Trump'],[],[],[],[],0.007793958764523268,0.0004363264888525009,0.0009013509261421859,0.0006745170103386045,0.0052022929303348064,0.0008706929511390626,0.0006330629694275558
+"Wouldn’t that be amazing  and of course baby, you’re my #1!",,#1,,0.29,0.71,0.0,0.6239,[],[],[],[],[],0.018214354291558266,0.0008055196376517415,0.001994190737605095,0.001737656188197434,0.010099845938384533,0.0010553357424214482,0.002463876735419035
+Great picture,,,,0.804,0.196,0.0,0.6249,[],[],[],[],[],0.00429517263546586,0.0005239709280431271,0.0011536601232364774,0.0013379717711359262,0.002275964943692088,0.0013200632529333234,0.0008946817251853645
+"3 days left! Everything is at stake! Get out and FIGHT, FIGHT, FIGHT and VOTE, VOTE, VOTE!!  #Trump2024  #TrumpToSaveAmerica ",,#Trump2024 #TrumpToSaveAmerica,,0.0,0.573,0.427,-0.9035,[],"['FIGHT', 'VOTE', 'VOTE', 'VOTE']",[],[],['3 days'],0.011612200178205967,0.0005677563021890819,0.000825093244202435,0.0009808107279241085,0.007829470559954643,0.003289661603048444,0.00040625015390105546
+Do not look down Donald. Do not do it,,,,0.0,1.0,0.0,0.0,['Donald'],[],[],[],[],0.02393846958875656,0.0007838282617740333,0.000973681453615427,0.0032901226077228785,0.01598992757499218,0.0011468420270830393,0.0007704275194555521

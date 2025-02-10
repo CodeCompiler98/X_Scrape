@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-So let’s make them the first to go!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+So let’s make them the first to go!,,,,0.0,1.0,0.0,0.0,[],[],[],[],[],0.007030236069113016,0.0007829774986021221,0.001336019136942923,0.0054052951745688915,0.002326210495084524,0.0010269841877743602,0.0006753258057869971

@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-I follow everyone back. United Patriots. Share and grow our network of patriotic friends. I love Jesus.   @Lord_God_Love   #IFBAP ,@Lord_God_Love,#IFBAP,,0.486,0.514,0.0,0.9062,"['Jesus', 'IFBAP']",['United Patriots'],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+I follow everyone back. United Patriots. Share and grow our network of patriotic friends. I love Jesus.   @Lord_God_Love   #IFBAP ,@Lord_God_Love,#IFBAP,,0.486,0.514,0.0,0.9062,"['Jesus', 'IFBAP']",['United Patriots'],[],[],[],0.004861859139055014,0.0004827227385248989,0.0010365245398133993,0.0009869354544207454,0.0023360869381576777,0.0024315419141203165,0.0007148603326641023

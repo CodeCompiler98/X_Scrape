@@ -1,2 +1,2 @@
-comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date
-Fuck no I didn't vote for a communist dictator,,,,0.0,0.467,0.533,-0.6908,[],[],[],[],[]
+comment_text,mentions,new_hashtags,urls,Positive,Neutral,Negative,Compound,Persons,Organizations,Locations,Nationalities/religiious groups,Date,toxicity,severe_toxicity,obscene,threat,insult,identity_attack,sexual_explicit
+Fuck no I didn't vote for a communist dictator,,,,0.0,0.467,0.533,-0.6908,[],[],[],[],[],0.8698977828025818,0.10514093190431595,0.8183371424674988,0.009980625472962856,0.6769171953201294,0.10981550812721252,0.021692266687750816
